@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Installation Process Overview
 
-| Node Computer |[![Node Computer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU4obVlHVxvw)](https://www.youtube.com/watch?v=U4obVlHVxvw)| Gateway Computer |[![Gateway Computer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV5_zLI2UTIc)](https://www.youtube.com/watch?v=V5_zLI2UTIc)| Staking the Validator |                  |
+| Node Computer |[![Node Computer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfVXcJgvUs7U)](https://www.youtube.com/watch?v=fVXcJgvUs7U)| Gateway Computer |[![Gateway Computer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4eVLRPQ3Vo)](https://www.youtube.com/watch?v=H4eVLRPQ3Vo)| Staking the Validator |                  |
 |---------------|------------------------------|------------------|---------------------------------|-----------------------|------------------|
 | 0:00          |  Getting Started             | 0:00             |  Getting Started                | 0:00                  | To Be Determined |
 | 0:06          |  Upgrading Ubuntu            | 0:06             |  Upgrading Ubuntu               | TBD                   | TBD              |

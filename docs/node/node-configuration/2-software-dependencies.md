@@ -43,4 +43,3 @@ sudo pip3 install -U pip
 ```jsx title="Copy and run ..."
 pip3 install --user -U boto3 pyOpenSSL substrate-interface packaging requests
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=6s)

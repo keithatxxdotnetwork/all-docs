@@ -109,4 +109,3 @@ changed ownership of '/opt/xxnetwork/' from root:root to ubuntu:ubuntu
 ```
 </details>
 
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=288s)

@@ -44,4 +44,3 @@ The following should be run on the Node computer.
 ```
 rm /opt/xxnetwork/cred/gateway-key.key
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=315s)

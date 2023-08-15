@@ -1,513 +1,556 @@
 {
-  "/all-docs/blog-14f": {
-    "__comp": "a6aa9e1f",
+  "/all-docs/__docusaurus/debug-c96": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/__docusaurus/debug/config-64e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/__docusaurus/debug/content-2eb": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---all-docs-docusaurus-debug-content-246-769"
+  },
+  "/all-docs/__docusaurus/debug/globalData-492": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/__docusaurus/debug/metadata-1a1": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/__docusaurus/debug/registry-5bb": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/__docusaurus/debug/routes-e01": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---all-docs-docusaurus-debugee-1-de0"
+    }
+  },
+  "/all-docs/blog-14f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---all-docs-blog-267-1b1"
+    },
+    "sidebar": "sidebar---all-docs-blog-814-13f",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---all-docs-blog-766-ac2"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---all-docs-blogf-4-f-3c4"
       },
       {
-        "content": "8717b14a"
+        "content": "content---all-docs-blog-871-c88"
       },
       {
-        "content": "925b3f96"
+        "content": "content---all-docs-blog-925-a52"
       }
     ],
-    "metadata": "3e16b959"
+    "metadata": "metadata---all-docs-blog-3-e-1-f56"
   },
   "/all-docs/blog/archive-2cd": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "archive": "dfb93f77"
+    "archive": "archive---all-docs-blog-archivedfb-695"
   },
   "/all-docs/blog/first-blog-post-c66": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---all-docs-blog-814-13f",
+    "content": "content---all-docs-blog-first-blog-poste-27-c2c"
   },
   "/all-docs/blog/long-blog-post-cd4": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---all-docs-blog-814-13f",
+    "content": "content---all-docs-blog-long-blog-post-736-4a6"
   },
   "/all-docs/blog/mdx-blog-post-055": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---all-docs-blog-814-13f",
+    "content": "content---all-docs-blog-mdx-blog-post-593-111"
   },
   "/all-docs/blog/tags-0cc": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
-    "tags": "7589fe04"
+    "sidebar": "sidebar---all-docs-blog-814-13f",
+    "tags": "tags---all-docs-blog-tags-758-05e"
   },
   "/all-docs/blog/tags/docusaurus-9ab": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---all-docs-blog-814-13f",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---all-docs-blog-766-ac2"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---all-docs-blogf-4-f-3c4"
       },
       {
-        "content": "8717b14a"
+        "content": "content---all-docs-blog-871-c88"
       },
       {
-        "content": "925b3f96"
+        "content": "content---all-docs-blog-925-a52"
       }
     ],
-    "tag": "8f849824",
-    "listMetadata": "fd516b4c"
+    "tag": "tag---all-docs-blog-tags-docusaurus-8-f-8-126",
+    "listMetadata": "listMetadata---all-docs-blog-tags-docusaurusfd-5-1b1"
   },
   "/all-docs/blog/tags/facebook-e23": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---all-docs-blog-814-13f",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---all-docs-blog-766-ac2"
       }
     ],
-    "tag": "3d7309d1",
-    "listMetadata": "f599ba0f"
+    "tag": "tag---all-docs-blog-tags-facebook-3-d-7-d7d",
+    "listMetadata": "listMetadata---all-docs-blog-tags-facebookf-59-05f"
   },
   "/all-docs/blog/tags/hello-f8a": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---all-docs-blog-814-13f",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---all-docs-blog-766-ac2"
       },
       {
-        "content": "8717b14a"
+        "content": "content---all-docs-blog-871-c88"
       }
     ],
-    "tag": "17b7977c",
-    "listMetadata": "9e9879c2"
+    "tag": "tag---all-docs-blog-tags-hello-17-b-e03",
+    "listMetadata": "listMetadata---all-docs-blog-tags-hello-9-e-9-398"
   },
   "/all-docs/blog/tags/hola-ea9": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---all-docs-blog-814-13f",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---all-docs-blog-925-a52"
       }
     ],
-    "tag": "c760cb43",
-    "listMetadata": "5b122a4b"
+    "tag": "tag---all-docs-blog-tags-holac-76-05e",
+    "listMetadata": "listMetadata---all-docs-blog-tags-hola-5-b-1-cba"
   },
   "/all-docs/blog/welcome-b46": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "26727d3b"
+      "plugin": "plugin---all-docs-blog-267-1b1"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---all-docs-blog-814-13f",
+    "content": "content---all-docs-blog-welcomed-9-f-379"
   },
   "/all-docs/docs-a87": {
-    "__comp": "1be78505",
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "53058e31"
+      "plugin": "plugin---all-docs-docs-530-10f"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---all-docs-docs-935-7df"
   },
   "/all-docs/docs/category/accounts-5d8": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "80937fd9"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-accounts-809-467"
   },
   "/all-docs/docs/category/api-documents-5ec": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "53bed3be"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-api-documents-53-b-c18"
   },
   "/all-docs/docs/category/chain-explorer-f3d": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "d914394f"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-chain-explorerd-91-cd4"
   },
   "/all-docs/docs/category/cmix-dashboard-703": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "5fa5c397"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-cmix-dashboard-5-fa-442"
   },
   "/all-docs/docs/category/gateway-computer-f3e": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e8be6f99"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-gateway-computere-8-b-beb"
   },
   "/all-docs/docs/category/governance-6d0": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "56ff8f25"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-governance-56-f-987"
   },
   "/all-docs/docs/category/node-computer-158": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "a1b089fe"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-node-computera-1-b-42b"
   },
   "/all-docs/docs/category/overview-07b": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "eec71ce9"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-overvieweec-e5d"
   },
   "/all-docs/docs/category/reference-guides-01f": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e60bf291"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-reference-guidese-60-b14"
   },
   "/all-docs/docs/category/simple-staking-cf2": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "a027a8ee"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-simple-stakinga-02-734"
   },
   "/all-docs/docs/category/sleeve-wallet-generator-50a": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "cf0cac56"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-sleeve-wallet-generatorcf-0-e4e"
   },
   "/all-docs/docs/category/staking-d52": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "0fefe638"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-staking-0-fe-0a1"
   },
   "/all-docs/docs/category/staking-the-validator-c50": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "79acfb73"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-staking-the-validator-79-a-d40"
   },
   "/all-docs/docs/category/web-wallet-f0e": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "284a0544"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-web-wallet-284-788"
   },
   "/all-docs/docs/category/xx-chain-a31": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ca6e262a"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-xx-chainca-6-920"
   },
   "/all-docs/docs/category/xx-cmix-dbb": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "bde18753"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-xx-cmixbde-556"
   },
   "/all-docs/docs/category/xx-node-d9a": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "af0f0828"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-xx-nodeaf-0-9cc"
   },
   "/all-docs/docs/category/xx-tools-c39": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7a5ab8c9"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-xx-tools-7-a-5-eac"
   },
   "/all-docs/docs/category/xxdk-30c": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c3243703"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---all-docs-docs-category-xxdkc-32-7fa"
   },
   "/all-docs/docs/chain/-ca2": {
-    "__comp": "17896441",
-    "content": "ed405824"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-ed-4-41c"
   },
   "/all-docs/docs/chain/API Documents/constants-3ce": {
-    "__comp": "17896441",
-    "content": "a368aac9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-constantsa-36-550"
   },
   "/all-docs/docs/chain/API Documents/errors-de9": {
-    "__comp": "17896441",
-    "content": "4b0ca187"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-errors-4-b-0-042"
   },
   "/all-docs/docs/chain/API Documents/events-110": {
-    "__comp": "17896441",
-    "content": "36b7be93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-events-36-b-6c9"
   },
   "/all-docs/docs/chain/API Documents/extrinsics-909": {
-    "__comp": "17896441",
-    "content": "eb59c674"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-extrinsicseb-5-9a1"
   },
   "/all-docs/docs/chain/API Documents/rpc-9b3": {
-    "__comp": "17896441",
-    "content": "028bb728"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-rpc-028-671"
   },
   "/all-docs/docs/chain/API Documents/runtime-74c": {
-    "__comp": "17896441",
-    "content": "d939c3d6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-runtimed-93-cbf"
   },
   "/all-docs/docs/chain/API Documents/storage-903": {
-    "__comp": "17896441",
-    "content": "c6e1babb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-chain-api-documents-storagec-6-e-82c"
   },
   "/all-docs/docs/cmix/-31b": {
-    "__comp": "17896441",
-    "content": "5a0c0b36"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-5-a-0-e4b"
   },
   "/all-docs/docs/cmix/xxdk/getting-started-8dd": {
-    "__comp": "17896441",
-    "content": "bc19260f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-getting-startedbc-1-33b"
   },
   "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore-738": {
-    "__comp": "17896441",
-    "content": "20e53d27"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-guides-cmix-client-keystore-20-e-17e"
   },
   "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval-fe6": {
-    "__comp": "17896441",
-    "content": "45e2f498"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-guides-ndf-retrieval-45-e-2c4"
   },
   "/all-docs/docs/cmix/xxdk/mobile docs/ios-sdk-8e2": {
-    "__comp": "17896441",
-    "content": "1a31b815"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-mobile-docs-ios-sdk-1-a-3-543"
   },
   "/all-docs/docs/cmix/xxdk/overview-178": {
-    "__comp": "17896441",
-    "content": "17d5da71"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-overview-17-d-9df"
   },
   "/all-docs/docs/cmix/xxdk/quick-reference-3e0": {
-    "__comp": "17896441",
-    "content": "9993fc20"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-quick-reference-999-aab"
   },
   "/all-docs/docs/cmix/xxdk/technical-glossary-ea5": {
-    "__comp": "17896441",
-    "content": "d36744a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-cmix-xxdk-technical-glossaryd-36-100"
   },
   "/all-docs/docs/intro-7e4": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-intro-0-e-3-c6d"
   },
   "/all-docs/docs/node/basic-linux-help-707": {
-    "__comp": "17896441",
-    "content": "d04c6498"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-basic-linux-helpd-04-3bb"
   },
   "/all-docs/docs/node/gateway-configuration/clock-syncronization-9ed": {
-    "__comp": "17896441",
-    "content": "09787727"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-clock-syncronization-097-be4"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-config-26c": {
-    "__comp": "17896441",
-    "content": "41d469c5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-config-41-d-6f9"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-database-f3c": {
-    "__comp": "17896441",
-    "content": "5a1e2ef8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-database-5-a-1-a8a"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-firewall-d35": {
-    "__comp": "17896441",
-    "content": "7160f48c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-firewall-716-2b4"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding-d6f": {
-    "__comp": "17896441",
-    "content": "42306b5d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-port-forwarding-423-fac"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-services-config-c35": {
-    "__comp": "17896441",
-    "content": "542a82f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-services-config-542-738"
   },
   "/all-docs/docs/node/gateway-configuration/gateway-tarballs-682": {
-    "__comp": "17896441",
-    "content": "50125081"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-gateway-tarballs-501-869"
   },
   "/all-docs/docs/node/gateway-configuration/getting-started-128": {
-    "__comp": "17896441",
-    "content": "c4d52493"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-getting-startedc-4-d-439"
   },
   "/all-docs/docs/node/gateway-configuration/software-dependencies-698": {
-    "__comp": "17896441",
-    "content": "f86b0745"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-software-dependenciesf-86-521"
   },
   "/all-docs/docs/node/gateway-configuration/tcp-settings-818": {
-    "__comp": "17896441",
-    "content": "85394ea9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-tcp-settings-853-1e0"
   },
   "/all-docs/docs/node/gateway-configuration/transfer-creds-0b4": {
-    "__comp": "17896441",
-    "content": "e62d7253"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-gateway-configuration-transfer-credse-62-29c"
   },
   "/all-docs/docs/node/install-overview-da9": {
-    "__comp": "17896441",
-    "content": "25e8fc4f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-install-overview-25-e-4c0"
   },
   "/all-docs/docs/node/intro-54b": {
-    "__comp": "17896441",
-    "content": "938a5169"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-intro-938-b72"
   },
   "/all-docs/docs/node/node-configuration/clock-syncronization-094": {
-    "__comp": "17896441",
-    "content": "f82d2d6d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-clock-syncronizationf-82-c80"
   },
   "/all-docs/docs/node/node-configuration/generate-creds-ca6": {
-    "__comp": "17896441",
-    "content": "ec92425c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-generate-credsec-9-8c2"
   },
   "/all-docs/docs/node/node-configuration/getting-started-ca5": {
-    "__comp": "17896441",
-    "content": "9b0f5091"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-getting-started-9-b-0-187"
   },
   "/all-docs/docs/node/node-configuration/node-config-e72": {
-    "__comp": "17896441",
-    "content": "25314b93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-config-253-6a6"
   },
   "/all-docs/docs/node/node-configuration/node-database-08f": {
-    "__comp": "17896441",
-    "content": "5e307d8c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-database-5-e-3-253"
   },
   "/all-docs/docs/node/node-configuration/node-firewall-74d": {
-    "__comp": "17896441",
-    "content": "06abdfdc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-firewall-06-a-1e5"
   },
   "/all-docs/docs/node/node-configuration/node-port-forwarding-5e2": {
-    "__comp": "17896441",
-    "content": "870f2231"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-port-forwarding-870-a3e"
   },
   "/all-docs/docs/node/node-configuration/node-services-config-388": {
-    "__comp": "17896441",
-    "content": "b6868058"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-services-configb-68-10b"
   },
   "/all-docs/docs/node/node-configuration/node-tarballs-686": {
-    "__comp": "17896441",
-    "content": "6432ba41"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-node-tarballs-643-e79"
   },
   "/all-docs/docs/node/node-configuration/software-dependencies-305": {
-    "__comp": "17896441",
-    "content": "4347dc75"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-software-dependencies-434-07e"
   },
   "/all-docs/docs/node/node-configuration/tcp-settings-6dc": {
-    "__comp": "17896441",
-    "content": "89d18eee"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-node-configuration-tcp-settings-89-d-fcd"
   },
   "/all-docs/docs/node/specifications-329": {
-    "__comp": "17896441",
-    "content": "4e8442cc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-specifications-4-e-8-31d"
   },
   "/all-docs/docs/node/validator-staking/accounts-f67": {
-    "__comp": "17896441",
-    "content": "e1ca5cce"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-validator-staking-accountse-1-c-f8a"
   },
   "/all-docs/docs/node/validator-staking/getting-started-d39": {
-    "__comp": "17896441",
-    "content": "4fa39d9e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-validator-staking-getting-started-4-fa-61c"
   },
   "/all-docs/docs/node/validator-staking/session-keys-07d": {
-    "__comp": "17896441",
-    "content": "3ea01bd2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-validator-staking-session-keys-3-ea-5b9"
   },
   "/all-docs/docs/node/validator-staking/validator-status-2f5": {
-    "__comp": "17896441",
-    "content": "f52cdd86"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-node-validator-staking-validator-statusf-52-074"
   },
   "/all-docs/docs/overview/chain-419": {
-    "__comp": "17896441",
-    "content": "9afcee00"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-overview-chain-9-af-c6a"
   },
   "/all-docs/docs/overview/cmix-da4": {
-    "__comp": "17896441",
-    "content": "86d7efec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-overview-cmix-86-d-e0f"
   },
   "/all-docs/docs/overview/xxnetwork-e6f": {
-    "__comp": "17896441",
-    "content": "cb18e393"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-overview-xxnetworkcb-1-bc2"
   },
   "/all-docs/docs/todo-b97": {
-    "__comp": "17896441",
-    "content": "3edc8e6c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-todo-3-ed-437"
   },
   "/all-docs/docs/tools/dashboard/-5c7": {
-    "__comp": "17896441",
-    "content": "9cddf886"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-dashboard-9-cd-6e9"
   },
   "/all-docs/docs/tools/explorer/-e7a": {
-    "__comp": "17896441",
-    "content": "54fff687"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-explorer-54-f-106"
   },
   "/all-docs/docs/tools/simpleStaking/-9a6": {
-    "__comp": "17896441",
-    "content": "a9ad459d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-simple-staking-a-9-a-e72"
   },
   "/all-docs/docs/tools/sleeve/-27a": {
-    "__comp": "17896441",
-    "content": "24c39196"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-sleeve-24-c-843"
   },
   "/all-docs/docs/tools/webWallet/-a38": {
-    "__comp": "17896441",
-    "content": "9ae55257"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-9-ae-7e3"
   },
   "/all-docs/docs/tools/webWallet/accounts/accountTypes-44c": {
-    "__comp": "17896441",
-    "content": "0ff41948"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-account-types-0-ff-12f"
   },
   "/all-docs/docs/tools/webWallet/accounts/addAccount-b30": {
-    "__comp": "17896441",
-    "content": "93d4d7c8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-add-account-93-d-786"
   },
   "/all-docs/docs/tools/webWallet/accounts/addContact-649": {
-    "__comp": "17896441",
-    "content": "bab9e60e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-add-contactbab-afe"
   },
   "/all-docs/docs/tools/webWallet/accounts/claim-d58": {
-    "__comp": "17896441",
-    "content": "37983d2e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-claim-379-c84"
   },
   "/all-docs/docs/tools/webWallet/accounts/generateAccount-580": {
-    "__comp": "17896441",
-    "content": "a68a8d23"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-generate-accounta-68-f07"
   },
   "/all-docs/docs/tools/webWallet/accounts/receive-e9c": {
-    "__comp": "17896441",
-    "content": "ef215fd8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-receiveef-2-c28"
   },
   "/all-docs/docs/tools/webWallet/accounts/send-759": {
-    "__comp": "17896441",
-    "content": "605379f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-accounts-send-605-aa6"
   },
   "/all-docs/docs/tools/webWallet/endpoints-088": {
-    "__comp": "17896441",
-    "content": "eb4de7af"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-endpointseb-4-2fb"
   },
   "/all-docs/docs/tools/webWallet/governance/voting-5f9": {
-    "__comp": "17896441",
-    "content": "4b9f5872"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-governance-voting-4-b-9-163"
   },
   "/all-docs/docs/tools/webWallet/staking/-dde": {
-    "__comp": "17896441",
-    "content": "5210be6f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-521-4d1"
   },
   "/all-docs/docs/tools/webWallet/staking/bond-278": {
-    "__comp": "17896441",
-    "content": "d63b0d5e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-bondd-63-8cd"
   },
   "/all-docs/docs/tools/webWallet/staking/nominate-595": {
-    "__comp": "17896441",
-    "content": "632b9c70"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-nominate-632-4d5"
   },
   "/all-docs/docs/tools/webWallet/staking/payout-f6f": {
-    "__comp": "17896441",
-    "content": "f3307500"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-payoutf-33-291"
   },
   "/all-docs/docs/tools/webWallet/staking/unbond-5a5": {
-    "__comp": "17896441",
-    "content": "3778f00f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-unbond-377-a54"
   },
   "/all-docs/docs/tools/webWallet/staking/validate-dc9": {
-    "__comp": "17896441",
-    "content": "3332cb37"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---all-docs-docs-tools-web-wallet-staking-validate-333-f44"
   },
   "/all-docs/-6d9": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "e1633a77"
+      "plugin": "plugin---all-docs-e-16-f3c"
     },
-    "config": "5e9f5e1a"
+    "config": "config---all-docs-5-e-9-e32"
   }
 }

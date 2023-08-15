@@ -27,4 +27,3 @@ net.ipv4.tcp_slow_start_after_idle = 0
 net.ipv4.tcp_congestion_control = bbr
 net.core.default_qdisc = fq
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=217s)

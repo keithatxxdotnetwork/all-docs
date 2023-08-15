@@ -99,5 +99,3 @@ changed ownership of '/opt/xxnetwork/bin' from root:root to ubuntu:ubuntu
 changed ownership of '/opt/xxnetwork/' from root:root to ubuntu:ubuntu
 ```
 </details>
-
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=274s)

@@ -97,4 +97,4 @@ database:
   username: "cmix"
   password: "[password for database]"
   ```
-  ## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=377s)
+  

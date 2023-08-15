@@ -55,4 +55,3 @@ To                         Action      From
 15974/tcp (v6)             ALLOW       Anywhere (v6)              # xx network chain
 22840/tcp (v6)             ALLOW       Anywhere (v6)              # xx network Gateway
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=82s)

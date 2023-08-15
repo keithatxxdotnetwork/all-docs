@@ -90,4 +90,3 @@ dbAddress: "0.0.0.0:5432"
 dbUsername: "cmix"
 dbPassword: "[password for database]"
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=430s)

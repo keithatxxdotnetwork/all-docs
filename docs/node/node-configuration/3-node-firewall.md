@@ -55,4 +55,3 @@ To                         Action      From
 15974/tcp (v6)             ALLOW       Anywhere (v6)              # xx network chain
 11420/tcp (v6)             ALLOW       Anywhere (v6)              # xx network cMix
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=118s)

@@ -138,4 +138,3 @@ systemctl status xxnetwork-chain
 ```
 systemctl status xxnetwork-cmix
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=420s)

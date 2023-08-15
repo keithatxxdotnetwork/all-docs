@@ -60,4 +60,3 @@ Before proceeding, ensure ...
 * you are satisfied with `Time zone`
 * `System clock synchronized` displays `yes`
 * `NTP service` displays `active`
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=176s)

@@ -83,4 +83,3 @@ The following files are irreplaceable!
 
 Never share your `*.crt` or `*.key` files with others.
 :::
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=U4obVlHVxvw&t=334s)

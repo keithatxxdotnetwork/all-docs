@@ -59,4 +59,3 @@ You are now disconnected from the database and should see the terminal command p
 ```jsx title="Sample Output"
 ubuntu@gateway:~$ 
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=223s)

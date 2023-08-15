@@ -131,4 +131,3 @@ systemctl status xxnetwork-chain
 ```
 systemctl status xxnetwork-gateway
 ```
-## 🎞️ [Demonstration Video](https://www.youtube.com/watch?v=V5_zLI2UTIc&t=482s)
