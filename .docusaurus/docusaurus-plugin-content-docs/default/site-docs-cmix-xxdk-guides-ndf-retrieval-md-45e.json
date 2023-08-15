@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cmix/xxdk/guides/ndf-retrieval",
+  "id": "cmix/xxdk/guides/ndf-retrieval",
+  "title": "NDF Retrieval",
+  "description": "This guide covers how to fetch the network definition file, or NDF, either through the command line (CLI) or using the Client API (xxDK).",
+  "source": "@site/docs/cmix/xxdk/guides/ndf-retrieval.md",
+  "sourceDirName": "cmix/xxdk/guides",
+  "slug": "/cmix/xxdk/guides/ndf-retrieval",
+  "permalink": "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cMix Client Keystore",
+    "permalink": "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore"
+  },
+  "next": {
+    "title": "Technical Glossary",
+    "permalink": "/all-docs/docs/cmix/xxdk/technical-glossary"
+  }
+}

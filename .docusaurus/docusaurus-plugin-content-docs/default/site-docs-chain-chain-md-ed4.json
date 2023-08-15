@@ -1,0 +1,26 @@
+{
+  "unversionedId": "chain/chain",
+  "id": "chain/chain",
+  "title": "Overview",
+  "description": "The initial version of the xx chain is built on Substrate, an open-source framework for efficiently and securely creating blockchain networks. For its consensus algorithm, xx chain uses the most secure BFT approach offered by Substrate, which consists of BABE for block authoring and GRANDPA for block finality.",
+  "source": "@site/docs/chain/chain.md",
+  "sourceDirName": "chain",
+  "slug": "/chain/",
+  "permalink": "/all-docs/docs/chain/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xx Chain",
+    "permalink": "/all-docs/docs/category/xx-chain"
+  },
+  "next": {
+    "title": "API Documents",
+    "permalink": "/all-docs/docs/category/api-documents"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/node-configuration/generate-creds",
+  "id": "node/node-configuration/generate-creds",
+  "title": "9. Generate cMix TLS Credentials",
+  "description": "In this step you will generate the TLS credentials required for your node and gateway computers to connect to others on the xx Network.",
+  "source": "@site/docs/node/node-configuration/9-generate-creds.md",
+  "sourceDirName": "node/node-configuration",
+  "slug": "/node/node-configuration/generate-creds",
+  "permalink": "/all-docs/docs/node/node-configuration/generate-creds",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "8. xx Network Node Tarball",
+    "permalink": "/all-docs/docs/node/node-configuration/node-tarballs"
+  },
+  "next": {
+    "title": "10. cMix Options",
+    "permalink": "/all-docs/docs/node/node-configuration/node-config"
+  }
+}

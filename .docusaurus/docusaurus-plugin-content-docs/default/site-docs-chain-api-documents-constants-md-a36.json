@@ -1,0 +1,25 @@
+{
+  "unversionedId": "chain/API Documents/constants",
+  "id": "chain/API Documents/constants",
+  "title": "Constants",
+  "description": "The following sections contain the module constants, also known as parameter types. These can only be changed as part of a runtime upgrade. On the api, these are exposed via api.consts...",
+  "source": "@site/docs/chain/API Documents/constants.md",
+  "sourceDirName": "chain/API Documents",
+  "slug": "/chain/API Documents/constants",
+  "permalink": "/all-docs/docs/chain/API Documents/constants",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Constants"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Documents",
+    "permalink": "/all-docs/docs/category/api-documents"
+  },
+  "next": {
+    "title": "Errors",
+    "permalink": "/all-docs/docs/chain/API Documents/errors"
+  }
+}

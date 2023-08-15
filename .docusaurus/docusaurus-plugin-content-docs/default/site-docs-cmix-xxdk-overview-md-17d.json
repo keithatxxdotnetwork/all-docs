@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cmix/xxdk/overview",
+  "id": "cmix/xxdk/overview",
+  "title": "Overview",
+  "description": "The Client API (xxDK) is the client-side software for communicating with the cMix network, a privacy-protecting layer within the larger xx network blockchain ecosystem. cMix builds on current data protection mechanisms by extending security beyond just content to include metadata — the what, when, where, and how of user activity.",
+  "source": "@site/docs/cmix/xxdk/overview.md",
+  "sourceDirName": "cmix/xxdk",
+  "slug": "/cmix/xxdk/overview",
+  "permalink": "/all-docs/docs/cmix/xxdk/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xxDK",
+    "permalink": "/all-docs/docs/category/xxdk"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/all-docs/docs/cmix/xxdk/getting-started"
+  }
+}

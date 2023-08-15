@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/node-configuration/node-services-config",
+  "id": "node/node-configuration/node-services-config",
+  "title": "11. xx Network System Services",
+  "description": "In this step you will configure, enable and start the chain and cmix systemd services.",
+  "source": "@site/docs/node/node-configuration/11-node-services-config.md",
+  "sourceDirName": "node/node-configuration",
+  "slug": "/node/node-configuration/node-services-config",
+  "permalink": "/all-docs/docs/node/node-configuration/node-services-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "10. cMix Options",
+    "permalink": "/all-docs/docs/node/node-configuration/node-config"
+  },
+  "next": {
+    "title": "Gateway Computer",
+    "permalink": "/all-docs/docs/category/gateway-computer"
+  }
+}

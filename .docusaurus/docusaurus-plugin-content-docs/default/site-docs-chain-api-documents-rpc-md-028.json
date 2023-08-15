@@ -1,0 +1,25 @@
+{
+  "unversionedId": "chain/API Documents/rpc",
+  "id": "chain/API Documents/rpc",
+  "title": "JSON-RPC",
+  "description": "The following sections contain known RPC methods that may be available on specific nodes (depending on configuration and available pallets) and allow you to interact with the actual node, query, and submit.",
+  "source": "@site/docs/chain/API Documents/rpc.md",
+  "sourceDirName": "chain/API Documents",
+  "slug": "/chain/API Documents/rpc",
+  "permalink": "/all-docs/docs/chain/API Documents/rpc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JSON-RPC"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Extrinsics",
+    "permalink": "/all-docs/docs/chain/API Documents/extrinsics"
+  },
+  "next": {
+    "title": "Runtime",
+    "permalink": "/all-docs/docs/chain/API Documents/runtime"
+  }
+}

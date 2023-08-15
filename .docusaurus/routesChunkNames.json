@@ -1,0 +1,513 @@
+{
+  "/all-docs/blog-14f": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "3e16b959"
+  },
+  "/all-docs/blog/archive-2cd": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "archive": "dfb93f77"
+  },
+  "/all-docs/blog/first-blog-post-c66": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/all-docs/blog/long-blog-post-cd4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/all-docs/blog/mdx-blog-post-055": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/all-docs/blog/tags-0cc": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "tags": "7589fe04"
+  },
+  "/all-docs/blog/tags/docusaurus-9ab": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "8f849824",
+    "listMetadata": "fd516b4c"
+  },
+  "/all-docs/blog/tags/facebook-e23": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "3d7309d1",
+    "listMetadata": "f599ba0f"
+  },
+  "/all-docs/blog/tags/hello-f8a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "17b7977c",
+    "listMetadata": "9e9879c2"
+  },
+  "/all-docs/blog/tags/hola-ea9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "c760cb43",
+    "listMetadata": "5b122a4b"
+  },
+  "/all-docs/blog/welcome-b46": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "26727d3b"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/all-docs/docs-a87": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "53058e31"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/all-docs/docs/category/accounts-5d8": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "80937fd9"
+  },
+  "/all-docs/docs/category/api-documents-5ec": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "53bed3be"
+  },
+  "/all-docs/docs/category/chain-explorer-f3d": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d914394f"
+  },
+  "/all-docs/docs/category/cmix-dashboard-703": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "5fa5c397"
+  },
+  "/all-docs/docs/category/gateway-computer-f3e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e8be6f99"
+  },
+  "/all-docs/docs/category/governance-6d0": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "56ff8f25"
+  },
+  "/all-docs/docs/category/node-computer-158": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a1b089fe"
+  },
+  "/all-docs/docs/category/overview-07b": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "eec71ce9"
+  },
+  "/all-docs/docs/category/reference-guides-01f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e60bf291"
+  },
+  "/all-docs/docs/category/simple-staking-cf2": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a027a8ee"
+  },
+  "/all-docs/docs/category/sleeve-wallet-generator-50a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "cf0cac56"
+  },
+  "/all-docs/docs/category/staking-d52": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0fefe638"
+  },
+  "/all-docs/docs/category/staking-the-validator-c50": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "79acfb73"
+  },
+  "/all-docs/docs/category/web-wallet-f0e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "284a0544"
+  },
+  "/all-docs/docs/category/xx-chain-a31": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ca6e262a"
+  },
+  "/all-docs/docs/category/xx-cmix-dbb": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bde18753"
+  },
+  "/all-docs/docs/category/xx-node-d9a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "af0f0828"
+  },
+  "/all-docs/docs/category/xx-tools-c39": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7a5ab8c9"
+  },
+  "/all-docs/docs/category/xxdk-30c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c3243703"
+  },
+  "/all-docs/docs/chain/-ca2": {
+    "__comp": "17896441",
+    "content": "ed405824"
+  },
+  "/all-docs/docs/chain/API Documents/constants-3ce": {
+    "__comp": "17896441",
+    "content": "a368aac9"
+  },
+  "/all-docs/docs/chain/API Documents/errors-de9": {
+    "__comp": "17896441",
+    "content": "4b0ca187"
+  },
+  "/all-docs/docs/chain/API Documents/events-110": {
+    "__comp": "17896441",
+    "content": "36b7be93"
+  },
+  "/all-docs/docs/chain/API Documents/extrinsics-909": {
+    "__comp": "17896441",
+    "content": "eb59c674"
+  },
+  "/all-docs/docs/chain/API Documents/rpc-9b3": {
+    "__comp": "17896441",
+    "content": "028bb728"
+  },
+  "/all-docs/docs/chain/API Documents/runtime-74c": {
+    "__comp": "17896441",
+    "content": "d939c3d6"
+  },
+  "/all-docs/docs/chain/API Documents/storage-903": {
+    "__comp": "17896441",
+    "content": "c6e1babb"
+  },
+  "/all-docs/docs/cmix/-31b": {
+    "__comp": "17896441",
+    "content": "5a0c0b36"
+  },
+  "/all-docs/docs/cmix/xxdk/getting-started-8dd": {
+    "__comp": "17896441",
+    "content": "bc19260f"
+  },
+  "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore-738": {
+    "__comp": "17896441",
+    "content": "20e53d27"
+  },
+  "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval-fe6": {
+    "__comp": "17896441",
+    "content": "45e2f498"
+  },
+  "/all-docs/docs/cmix/xxdk/mobile docs/ios-sdk-8e2": {
+    "__comp": "17896441",
+    "content": "1a31b815"
+  },
+  "/all-docs/docs/cmix/xxdk/overview-178": {
+    "__comp": "17896441",
+    "content": "17d5da71"
+  },
+  "/all-docs/docs/cmix/xxdk/quick-reference-3e0": {
+    "__comp": "17896441",
+    "content": "9993fc20"
+  },
+  "/all-docs/docs/cmix/xxdk/technical-glossary-ea5": {
+    "__comp": "17896441",
+    "content": "d36744a8"
+  },
+  "/all-docs/docs/intro-7e4": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/all-docs/docs/node/basic-linux-help-707": {
+    "__comp": "17896441",
+    "content": "d04c6498"
+  },
+  "/all-docs/docs/node/gateway-configuration/clock-syncronization-9ed": {
+    "__comp": "17896441",
+    "content": "09787727"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-config-26c": {
+    "__comp": "17896441",
+    "content": "41d469c5"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-database-f3c": {
+    "__comp": "17896441",
+    "content": "5a1e2ef8"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-firewall-d35": {
+    "__comp": "17896441",
+    "content": "7160f48c"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding-d6f": {
+    "__comp": "17896441",
+    "content": "42306b5d"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-services-config-c35": {
+    "__comp": "17896441",
+    "content": "542a82f4"
+  },
+  "/all-docs/docs/node/gateway-configuration/gateway-tarballs-682": {
+    "__comp": "17896441",
+    "content": "50125081"
+  },
+  "/all-docs/docs/node/gateway-configuration/getting-started-128": {
+    "__comp": "17896441",
+    "content": "c4d52493"
+  },
+  "/all-docs/docs/node/gateway-configuration/software-dependencies-698": {
+    "__comp": "17896441",
+    "content": "f86b0745"
+  },
+  "/all-docs/docs/node/gateway-configuration/tcp-settings-818": {
+    "__comp": "17896441",
+    "content": "85394ea9"
+  },
+  "/all-docs/docs/node/gateway-configuration/transfer-creds-0b4": {
+    "__comp": "17896441",
+    "content": "e62d7253"
+  },
+  "/all-docs/docs/node/install-overview-da9": {
+    "__comp": "17896441",
+    "content": "25e8fc4f"
+  },
+  "/all-docs/docs/node/intro-54b": {
+    "__comp": "17896441",
+    "content": "938a5169"
+  },
+  "/all-docs/docs/node/node-configuration/clock-syncronization-094": {
+    "__comp": "17896441",
+    "content": "f82d2d6d"
+  },
+  "/all-docs/docs/node/node-configuration/generate-creds-ca6": {
+    "__comp": "17896441",
+    "content": "ec92425c"
+  },
+  "/all-docs/docs/node/node-configuration/getting-started-ca5": {
+    "__comp": "17896441",
+    "content": "9b0f5091"
+  },
+  "/all-docs/docs/node/node-configuration/node-config-e72": {
+    "__comp": "17896441",
+    "content": "25314b93"
+  },
+  "/all-docs/docs/node/node-configuration/node-database-08f": {
+    "__comp": "17896441",
+    "content": "5e307d8c"
+  },
+  "/all-docs/docs/node/node-configuration/node-firewall-74d": {
+    "__comp": "17896441",
+    "content": "06abdfdc"
+  },
+  "/all-docs/docs/node/node-configuration/node-port-forwarding-5e2": {
+    "__comp": "17896441",
+    "content": "870f2231"
+  },
+  "/all-docs/docs/node/node-configuration/node-services-config-388": {
+    "__comp": "17896441",
+    "content": "b6868058"
+  },
+  "/all-docs/docs/node/node-configuration/node-tarballs-686": {
+    "__comp": "17896441",
+    "content": "6432ba41"
+  },
+  "/all-docs/docs/node/node-configuration/software-dependencies-305": {
+    "__comp": "17896441",
+    "content": "4347dc75"
+  },
+  "/all-docs/docs/node/node-configuration/tcp-settings-6dc": {
+    "__comp": "17896441",
+    "content": "89d18eee"
+  },
+  "/all-docs/docs/node/specifications-329": {
+    "__comp": "17896441",
+    "content": "4e8442cc"
+  },
+  "/all-docs/docs/node/validator-staking/accounts-f67": {
+    "__comp": "17896441",
+    "content": "e1ca5cce"
+  },
+  "/all-docs/docs/node/validator-staking/getting-started-d39": {
+    "__comp": "17896441",
+    "content": "4fa39d9e"
+  },
+  "/all-docs/docs/node/validator-staking/session-keys-07d": {
+    "__comp": "17896441",
+    "content": "3ea01bd2"
+  },
+  "/all-docs/docs/node/validator-staking/validator-status-2f5": {
+    "__comp": "17896441",
+    "content": "f52cdd86"
+  },
+  "/all-docs/docs/overview/chain-419": {
+    "__comp": "17896441",
+    "content": "9afcee00"
+  },
+  "/all-docs/docs/overview/cmix-da4": {
+    "__comp": "17896441",
+    "content": "86d7efec"
+  },
+  "/all-docs/docs/overview/xxnetwork-e6f": {
+    "__comp": "17896441",
+    "content": "cb18e393"
+  },
+  "/all-docs/docs/todo-b97": {
+    "__comp": "17896441",
+    "content": "3edc8e6c"
+  },
+  "/all-docs/docs/tools/dashboard/-5c7": {
+    "__comp": "17896441",
+    "content": "9cddf886"
+  },
+  "/all-docs/docs/tools/explorer/-e7a": {
+    "__comp": "17896441",
+    "content": "54fff687"
+  },
+  "/all-docs/docs/tools/simpleStaking/-9a6": {
+    "__comp": "17896441",
+    "content": "a9ad459d"
+  },
+  "/all-docs/docs/tools/sleeve/-27a": {
+    "__comp": "17896441",
+    "content": "24c39196"
+  },
+  "/all-docs/docs/tools/webWallet/-a38": {
+    "__comp": "17896441",
+    "content": "9ae55257"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/accountTypes-44c": {
+    "__comp": "17896441",
+    "content": "0ff41948"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/addAccount-b30": {
+    "__comp": "17896441",
+    "content": "93d4d7c8"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/addContact-649": {
+    "__comp": "17896441",
+    "content": "bab9e60e"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/claim-d58": {
+    "__comp": "17896441",
+    "content": "37983d2e"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/generateAccount-580": {
+    "__comp": "17896441",
+    "content": "a68a8d23"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/receive-e9c": {
+    "__comp": "17896441",
+    "content": "ef215fd8"
+  },
+  "/all-docs/docs/tools/webWallet/accounts/send-759": {
+    "__comp": "17896441",
+    "content": "605379f2"
+  },
+  "/all-docs/docs/tools/webWallet/endpoints-088": {
+    "__comp": "17896441",
+    "content": "eb4de7af"
+  },
+  "/all-docs/docs/tools/webWallet/governance/voting-5f9": {
+    "__comp": "17896441",
+    "content": "4b9f5872"
+  },
+  "/all-docs/docs/tools/webWallet/staking/-dde": {
+    "__comp": "17896441",
+    "content": "5210be6f"
+  },
+  "/all-docs/docs/tools/webWallet/staking/bond-278": {
+    "__comp": "17896441",
+    "content": "d63b0d5e"
+  },
+  "/all-docs/docs/tools/webWallet/staking/nominate-595": {
+    "__comp": "17896441",
+    "content": "632b9c70"
+  },
+  "/all-docs/docs/tools/webWallet/staking/payout-f6f": {
+    "__comp": "17896441",
+    "content": "f3307500"
+  },
+  "/all-docs/docs/tools/webWallet/staking/unbond-5a5": {
+    "__comp": "17896441",
+    "content": "3778f00f"
+  },
+  "/all-docs/docs/tools/webWallet/staking/validate-dc9": {
+    "__comp": "17896441",
+    "content": "3332cb37"
+  },
+  "/all-docs/-6d9": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "e1633a77"
+    },
+    "config": "5e9f5e1a"
+  }
+}

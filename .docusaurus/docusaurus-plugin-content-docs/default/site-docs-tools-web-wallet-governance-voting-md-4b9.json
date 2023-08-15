@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/webWallet/governance/voting",
+  "id": "tools/webWallet/governance/voting",
+  "title": "voting",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/governance/voting.md",
+  "sourceDirName": "tools/webWallet/governance",
+  "slug": "/tools/webWallet/governance/voting",
+  "permalink": "/all-docs/docs/tools/webWallet/governance/voting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Governance",
+    "permalink": "/all-docs/docs/category/governance"
+  },
+  "next": {
+    "title": "Staking",
+    "permalink": "/all-docs/docs/category/staking"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/simpleStaking/simpleStaking",
+  "id": "tools/simpleStaking/simpleStaking",
+  "title": "simpleStaking",
+  "description": "",
+  "source": "@site/docs/tools/simpleStaking/simpleStaking.md",
+  "sourceDirName": "tools/simpleStaking",
+  "slug": "/tools/simpleStaking/",
+  "permalink": "/all-docs/docs/tools/simpleStaking/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simple Staking",
+    "permalink": "/all-docs/docs/category/simple-staking"
+  },
+  "next": {
+    "title": "Web Wallet",
+    "permalink": "/all-docs/docs/category/web-wallet"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/explorer/explorer",
+  "id": "tools/explorer/explorer",
+  "title": "explorer",
+  "description": "",
+  "source": "@site/docs/tools/explorer/explorer.md",
+  "sourceDirName": "tools/explorer",
+  "slug": "/tools/explorer/",
+  "permalink": "/all-docs/docs/tools/explorer/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chain Explorer",
+    "permalink": "/all-docs/docs/category/chain-explorer"
+  },
+  "next": {
+    "title": "cMix Dashboard",
+    "permalink": "/all-docs/docs/category/cmix-dashboard"
+  }
+}

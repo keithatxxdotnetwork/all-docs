@@ -1,0 +1,16 @@
+{
+  "title": "xx Node",
+  "description": "Run a node",
+  "slug": "/category/xx-node",
+  "permalink": "/all-docs/docs/category/xx-node",
+  "navigation": {
+    "previous": {
+      "title": "Technical Glossary",
+      "permalink": "/all-docs/docs/cmix/xxdk/technical-glossary"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/all-docs/docs/node/intro"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overview/cmix",
+  "id": "overview/cmix",
+  "title": "What is xx cMix?",
+  "description": "xx cMix is the end-to-end encryption tool we use to protect your privacy. It uses a revolutionary metadata shredding technology that obscures the metadata you share when sending messages, making payments, and transferring data. xx cMix does this by mixing all transactions together in batches or “anonymity sets” and processing them simultaneously, which shreds all metadata and prevents third parties from analyzing activity patterns and connecting senders to recipients. Read more about it in the xx cMix whitepaper.",
+  "source": "@site/docs/overview/cmix.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/cmix",
+  "permalink": "/all-docs/docs/overview/cmix",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is xx Chain?",
+    "permalink": "/all-docs/docs/overview/chain"
+  },
+  "next": {
+    "title": "xx Chain",
+    "permalink": "/all-docs/docs/category/xx-chain"
+  }
+}

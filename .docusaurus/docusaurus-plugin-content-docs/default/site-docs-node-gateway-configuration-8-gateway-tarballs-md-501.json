@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/gateway-configuration/gateway-tarballs",
+  "id": "node/gateway-configuration/gateway-tarballs",
+  "title": "8. xx Network Gateway Tarball",
+  "description": "In this step you will download and extract the software for the gateway computer.",
+  "source": "@site/docs/node/gateway-configuration/8-gateway-tarballs.md",
+  "sourceDirName": "node/gateway-configuration",
+  "slug": "/node/gateway-configuration/gateway-tarballs",
+  "permalink": "/all-docs/docs/node/gateway-configuration/gateway-tarballs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7. cMix Gateway Database Configuration",
+    "permalink": "/all-docs/docs/node/gateway-configuration/gateway-database"
+  },
+  "next": {
+    "title": "9. Transfer TLS Credentials",
+    "permalink": "/all-docs/docs/node/gateway-configuration/transfer-creds"
+  }
+}

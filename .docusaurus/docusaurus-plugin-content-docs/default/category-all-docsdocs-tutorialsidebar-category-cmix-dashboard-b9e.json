@@ -1,0 +1,16 @@
+{
+  "title": "cMix Dashboard",
+  "description": "How to get things done",
+  "slug": "/category/cmix-dashboard",
+  "permalink": "/all-docs/docs/category/cmix-dashboard",
+  "navigation": {
+    "previous": {
+      "title": "explorer",
+      "permalink": "/all-docs/docs/tools/explorer/"
+    },
+    "next": {
+      "title": "dashboard",
+      "permalink": "/all-docs/docs/tools/dashboard/"
+    }
+  }
+}

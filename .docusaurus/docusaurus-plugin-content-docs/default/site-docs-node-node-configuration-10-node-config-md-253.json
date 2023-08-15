@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/node-configuration/node-config",
+  "id": "node/node-configuration/node-config",
+  "title": "10. cMix Options",
+  "description": "In this step you will edit the cmix.yaml configuration file.",
+  "source": "@site/docs/node/node-configuration/10-node-config.md",
+  "sourceDirName": "node/node-configuration",
+  "slug": "/node/node-configuration/node-config",
+  "permalink": "/all-docs/docs/node/node-configuration/node-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "9. Generate cMix TLS Credentials",
+    "permalink": "/all-docs/docs/node/node-configuration/generate-creds"
+  },
+  "next": {
+    "title": "11. xx Network System Services",
+    "permalink": "/all-docs/docs/node/node-configuration/node-services-config"
+  }
+}

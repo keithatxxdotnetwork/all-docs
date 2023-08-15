@@ -1,0 +1,25 @@
+{
+  "unversionedId": "chain/API Documents/runtime",
+  "id": "chain/API Documents/runtime",
+  "title": "Runtime",
+  "description": "The following section contains known runtime calls that may be available on specific runtimes (depending on configuration and available pallets). These call directly into the WASM runtime for queries and operations.",
+  "source": "@site/docs/chain/API Documents/runtime.md",
+  "sourceDirName": "chain/API Documents",
+  "slug": "/chain/API Documents/runtime",
+  "permalink": "/all-docs/docs/chain/API Documents/runtime",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Runtime"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON-RPC",
+    "permalink": "/all-docs/docs/chain/API Documents/rpc"
+  },
+  "next": {
+    "title": "Storage",
+    "permalink": "/all-docs/docs/chain/API Documents/storage"
+  }
+}

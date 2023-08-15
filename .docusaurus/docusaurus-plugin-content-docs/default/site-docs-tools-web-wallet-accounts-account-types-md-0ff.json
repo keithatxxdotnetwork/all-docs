@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tools/webWallet/accounts/accountTypes",
+  "id": "tools/webWallet/accounts/accountTypes",
+  "title": "accountTypes",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/accounts/accountTypes.md",
+  "sourceDirName": "tools/webWallet/accounts",
+  "slug": "/tools/webWallet/accounts/accountTypes",
+  "permalink": "/all-docs/docs/tools/webWallet/accounts/accountTypes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Accounts",
+    "permalink": "/all-docs/docs/category/accounts"
+  },
+  "next": {
+    "title": "generateAccount",
+    "permalink": "/all-docs/docs/tools/webWallet/accounts/generateAccount"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overview/chain",
+  "id": "overview/chain",
+  "title": "What is xx Chain?",
+  "description": "xx Chain is the unique consensus protocol that protects and secures the xx network blockchain. After transactional data is neutralized through xx cMix, payments are passed to the decentralized xx nodes running the xx Chain protocol. The nodes then confirm transactions and add them to the xx blockchain. Learn more in the xx consensus whitepaper.",
+  "source": "@site/docs/overview/chain.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/chain",
+  "permalink": "/all-docs/docs/overview/chain",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is xx Network?",
+    "permalink": "/all-docs/docs/overview/xxnetwork"
+  },
+  "next": {
+    "title": "What is xx cMix?",
+    "permalink": "/all-docs/docs/overview/cmix"
+  }
+}

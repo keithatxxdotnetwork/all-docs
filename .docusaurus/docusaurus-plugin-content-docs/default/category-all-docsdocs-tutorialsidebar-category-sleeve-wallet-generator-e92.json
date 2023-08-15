@@ -1,0 +1,16 @@
+{
+  "title": "Sleeve Wallet Generator",
+  "description": "How to get things done",
+  "slug": "/category/sleeve-wallet-generator",
+  "permalink": "/all-docs/docs/category/sleeve-wallet-generator",
+  "navigation": {
+    "previous": {
+      "title": "dashboard",
+      "permalink": "/all-docs/docs/tools/dashboard/"
+    },
+    "next": {
+      "title": "sleeve",
+      "permalink": "/all-docs/docs/tools/sleeve/"
+    }
+  }
+}

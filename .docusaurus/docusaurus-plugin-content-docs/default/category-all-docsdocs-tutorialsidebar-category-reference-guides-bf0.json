@@ -1,0 +1,16 @@
+{
+  "title": "Reference Guides",
+  "description": "All things related to cMix",
+  "slug": "/category/reference-guides",
+  "permalink": "/all-docs/docs/category/reference-guides",
+  "navigation": {
+    "previous": {
+      "title": "iOS SDK",
+      "permalink": "/all-docs/docs/cmix/xxdk/mobile docs/ios-sdk"
+    },
+    "next": {
+      "title": "cMix Client Keystore",
+      "permalink": "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore"
+    }
+  }
+}

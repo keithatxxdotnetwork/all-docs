@@ -1,0 +1,16 @@
+{
+  "title": "Governance",
+  "description": "Governance",
+  "slug": "/category/governance",
+  "permalink": "/all-docs/docs/category/governance",
+  "navigation": {
+    "previous": {
+      "title": "send",
+      "permalink": "/all-docs/docs/tools/webWallet/accounts/send"
+    },
+    "next": {
+      "title": "voting",
+      "permalink": "/all-docs/docs/tools/webWallet/governance/voting"
+    }
+  }
+}

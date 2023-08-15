@@ -1,0 +1,16 @@
+{
+  "title": "xxDK",
+  "description": "All things related to cMix",
+  "slug": "/category/xxdk",
+  "permalink": "/all-docs/docs/category/xxdk",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/all-docs/docs/cmix/"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/all-docs/docs/cmix/xxdk/overview"
+    }
+  }
+}

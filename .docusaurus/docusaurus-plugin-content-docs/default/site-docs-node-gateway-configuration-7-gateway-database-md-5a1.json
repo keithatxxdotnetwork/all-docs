@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/gateway-configuration/gateway-database",
+  "id": "node/gateway-configuration/gateway-database",
+  "title": "7. cMix Gateway Database Configuration",
+  "description": "In this step you will add a PostgreSQL user, set the user's password and create the gateway database.",
+  "source": "@site/docs/node/gateway-configuration/7-gateway-database.md",
+  "sourceDirName": "node/gateway-configuration",
+  "slug": "/node/gateway-configuration/gateway-database",
+  "permalink": "/all-docs/docs/node/gateway-configuration/gateway-database",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "6. TCP Network Settings",
+    "permalink": "/all-docs/docs/node/gateway-configuration/tcp-settings"
+  },
+  "next": {
+    "title": "8. xx Network Gateway Tarball",
+    "permalink": "/all-docs/docs/node/gateway-configuration/gateway-tarballs"
+  }
+}

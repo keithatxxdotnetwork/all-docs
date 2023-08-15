@@ -1,0 +1,25 @@
+{
+  "unversionedId": "chain/API Documents/extrinsics",
+  "id": "chain/API Documents/extrinsics",
+  "title": "Extrinsics",
+  "description": "The following sections contain Extrinsics methods are part of the default Substrate runtime. On the api, these are exposed via api.tx...",
+  "source": "@site/docs/chain/API Documents/extrinsics.md",
+  "sourceDirName": "chain/API Documents",
+  "slug": "/chain/API Documents/extrinsics",
+  "permalink": "/all-docs/docs/chain/API Documents/extrinsics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Extrinsics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/all-docs/docs/chain/API Documents/events"
+  },
+  "next": {
+    "title": "JSON-RPC",
+    "permalink": "/all-docs/docs/chain/API Documents/rpc"
+  }
+}

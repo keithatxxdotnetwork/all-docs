@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/gateway-configuration/gateway-firewall",
+  "id": "node/gateway-configuration/gateway-firewall",
+  "title": "3. Firewall Configuration",
+  "description": "In this step you will configure the firewall of the gateway computer.",
+  "source": "@site/docs/node/gateway-configuration/3-gateway-firewall.md",
+  "sourceDirName": "node/gateway-configuration",
+  "slug": "/node/gateway-configuration/gateway-firewall",
+  "permalink": "/all-docs/docs/node/gateway-configuration/gateway-firewall",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Software Dependencies",
+    "permalink": "/all-docs/docs/node/gateway-configuration/software-dependencies"
+  },
+  "next": {
+    "title": "4. Port Forwarding Configuration",
+    "permalink": "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/gateway-configuration/gateway-config",
+  "id": "node/gateway-configuration/gateway-config",
+  "title": "10. Gateway Options",
+  "description": "In this step you will edit the gateway.yaml configuration file.",
+  "source": "@site/docs/node/gateway-configuration/10-gateway-config.md",
+  "sourceDirName": "node/gateway-configuration",
+  "slug": "/node/gateway-configuration/gateway-config",
+  "permalink": "/all-docs/docs/node/gateway-configuration/gateway-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "9. Transfer TLS Credentials",
+    "permalink": "/all-docs/docs/node/gateway-configuration/transfer-creds"
+  },
+  "next": {
+    "title": "11. xx Network System Services",
+    "permalink": "/all-docs/docs/node/gateway-configuration/gateway-services-config"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/webWallet/staking/bond",
+  "id": "tools/webWallet/staking/bond",
+  "title": "bond",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/staking/bond.md",
+  "sourceDirName": "tools/webWallet/staking",
+  "slug": "/tools/webWallet/staking/bond",
+  "permalink": "/all-docs/docs/tools/webWallet/staking/bond",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staking",
+    "permalink": "/all-docs/docs/category/staking"
+  },
+  "next": {
+    "title": "nominate",
+    "permalink": "/all-docs/docs/tools/webWallet/staking/nominate"
+  }
+}

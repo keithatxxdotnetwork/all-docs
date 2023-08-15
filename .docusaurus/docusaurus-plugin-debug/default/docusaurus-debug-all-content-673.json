@@ -1,0 +1,2720 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/all-docs/docs",
+          "tagsPath": "/all-docs/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/koe/Projects/all-docs/sidebars.js",
+          "contentPath": "/home/koe/Projects/all-docs/docs",
+          "contentPathLocalized": "/home/koe/Projects/all-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "chain/API Documents/constants",
+              "id": "chain/API Documents/constants",
+              "title": "Constants",
+              "description": "The following sections contain the module constants, also known as parameter types. These can only be changed as part of a runtime upgrade. On the api, these are exposed via api.consts...",
+              "source": "@site/docs/chain/API Documents/constants.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/constants",
+              "permalink": "/all-docs/docs/chain/API Documents/constants",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Constants"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API Documents",
+                "permalink": "/all-docs/docs/category/api-documents"
+              },
+              "next": {
+                "title": "Errors",
+                "permalink": "/all-docs/docs/chain/API Documents/errors"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/errors",
+              "id": "chain/API Documents/errors",
+              "title": "Errors",
+              "description": "This page lists the errors that can be encountered in the different modules.",
+              "source": "@site/docs/chain/API Documents/errors.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/errors",
+              "permalink": "/all-docs/docs/chain/API Documents/errors",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Errors"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Constants",
+                "permalink": "/all-docs/docs/chain/API Documents/constants"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/all-docs/docs/chain/API Documents/events"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/events",
+              "id": "chain/API Documents/events",
+              "title": "Events",
+              "description": "Events are emitted for certain operations on the runtime. The following sections describe the events that are part of the default Substrate runtime.",
+              "source": "@site/docs/chain/API Documents/events.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/events",
+              "permalink": "/all-docs/docs/chain/API Documents/events",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Events"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Errors",
+                "permalink": "/all-docs/docs/chain/API Documents/errors"
+              },
+              "next": {
+                "title": "Extrinsics",
+                "permalink": "/all-docs/docs/chain/API Documents/extrinsics"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/extrinsics",
+              "id": "chain/API Documents/extrinsics",
+              "title": "Extrinsics",
+              "description": "The following sections contain Extrinsics methods are part of the default Substrate runtime. On the api, these are exposed via api.tx...",
+              "source": "@site/docs/chain/API Documents/extrinsics.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/extrinsics",
+              "permalink": "/all-docs/docs/chain/API Documents/extrinsics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Extrinsics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/all-docs/docs/chain/API Documents/events"
+              },
+              "next": {
+                "title": "JSON-RPC",
+                "permalink": "/all-docs/docs/chain/API Documents/rpc"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/rpc",
+              "id": "chain/API Documents/rpc",
+              "title": "JSON-RPC",
+              "description": "The following sections contain known RPC methods that may be available on specific nodes (depending on configuration and available pallets) and allow you to interact with the actual node, query, and submit.",
+              "source": "@site/docs/chain/API Documents/rpc.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/rpc",
+              "permalink": "/all-docs/docs/chain/API Documents/rpc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "JSON-RPC"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Extrinsics",
+                "permalink": "/all-docs/docs/chain/API Documents/extrinsics"
+              },
+              "next": {
+                "title": "Runtime",
+                "permalink": "/all-docs/docs/chain/API Documents/runtime"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/runtime",
+              "id": "chain/API Documents/runtime",
+              "title": "Runtime",
+              "description": "The following section contains known runtime calls that may be available on specific runtimes (depending on configuration and available pallets). These call directly into the WASM runtime for queries and operations.",
+              "source": "@site/docs/chain/API Documents/runtime.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/runtime",
+              "permalink": "/all-docs/docs/chain/API Documents/runtime",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Runtime"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "JSON-RPC",
+                "permalink": "/all-docs/docs/chain/API Documents/rpc"
+              },
+              "next": {
+                "title": "Storage",
+                "permalink": "/all-docs/docs/chain/API Documents/storage"
+              }
+            },
+            {
+              "unversionedId": "chain/API Documents/storage",
+              "id": "chain/API Documents/storage",
+              "title": "Storage",
+              "description": "The following sections contain Storage methods are part of the default Substrate runtime. On the api, these are exposed via api.query...",
+              "source": "@site/docs/chain/API Documents/storage.md",
+              "sourceDirName": "chain/API Documents",
+              "slug": "/chain/API Documents/storage",
+              "permalink": "/all-docs/docs/chain/API Documents/storage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Storage"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Runtime",
+                "permalink": "/all-docs/docs/chain/API Documents/runtime"
+              },
+              "next": {
+                "title": "xx cMix",
+                "permalink": "/all-docs/docs/category/xx-cmix"
+              }
+            },
+            {
+              "unversionedId": "chain/chain",
+              "id": "chain/chain",
+              "title": "Overview",
+              "description": "The initial version of the xx chain is built on Substrate, an open-source framework for efficiently and securely creating blockchain networks. For its consensus algorithm, xx chain uses the most secure BFT approach offered by Substrate, which consists of BABE for block authoring and GRANDPA for block finality.",
+              "source": "@site/docs/chain/chain.md",
+              "sourceDirName": "chain",
+              "slug": "/chain/",
+              "permalink": "/all-docs/docs/chain/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xx Chain",
+                "permalink": "/all-docs/docs/category/xx-chain"
+              },
+              "next": {
+                "title": "API Documents",
+                "permalink": "/all-docs/docs/category/api-documents"
+              }
+            },
+            {
+              "unversionedId": "cmix/cmix",
+              "id": "cmix/cmix",
+              "title": "Overview",
+              "description": "For cMix, Node and Gateways pair together; every Node has a Gateway. Their relationship is a Scheduler-Worker design. In the initial design, this will be tiered with a Scheduling server orchestrating Nodes that then orchestrate their Gateways, which then pass schedules onto Clients. The Scheduling server takes its instruction from the blockchain; network participation is defined by staking and consensus. The network will rapidly remove scheduling functions from the scheduling server and move them to adjudication by xx chain.",
+              "source": "@site/docs/cmix/cmix.md",
+              "sourceDirName": "cmix",
+              "slug": "/cmix/",
+              "permalink": "/all-docs/docs/cmix/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xx cMix",
+                "permalink": "/all-docs/docs/category/xx-cmix"
+              },
+              "next": {
+                "title": "xxDK",
+                "permalink": "/all-docs/docs/category/xxdk"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/getting-started",
+              "id": "cmix/xxdk/getting-started",
+              "title": "Getting Started",
+              "description": "This document uses the term “cMix client” to mean a unique user in the cMix network. The terms “client” and “server” will distinguish cMix clients based on their roles in a client-server architecture. They are also used interchangeably with “connect client” and “connect server,” respectively.",
+              "source": "@site/docs/cmix/xxdk/getting-started.md",
+              "sourceDirName": "cmix/xxdk",
+              "slug": "/cmix/xxdk/getting-started",
+              "permalink": "/all-docs/docs/cmix/xxdk/getting-started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/all-docs/docs/cmix/xxdk/overview"
+              },
+              "next": {
+                "title": "API Quick Reference",
+                "permalink": "/all-docs/docs/cmix/xxdk/quick-reference"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/guides/cmix-client-keystore",
+              "id": "cmix/xxdk/guides/cmix-client-keystore",
+              "title": "cMix Client Keystore",
+              "description": "The cMix Client Keystore is a directory-backed encrypted key-value storage which contains cryptographic keys and state data. It is implemented by wrapping the EKV library.",
+              "source": "@site/docs/cmix/xxdk/guides/cmix-client-keystore.md",
+              "sourceDirName": "cmix/xxdk/guides",
+              "slug": "/cmix/xxdk/guides/cmix-client-keystore",
+              "permalink": "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reference Guides",
+                "permalink": "/all-docs/docs/category/reference-guides"
+              },
+              "next": {
+                "title": "NDF Retrieval",
+                "permalink": "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/guides/ndf-retrieval",
+              "id": "cmix/xxdk/guides/ndf-retrieval",
+              "title": "NDF Retrieval",
+              "description": "This guide covers how to fetch the network definition file, or NDF, either through the command line (CLI) or using the Client API (xxDK).",
+              "source": "@site/docs/cmix/xxdk/guides/ndf-retrieval.md",
+              "sourceDirName": "cmix/xxdk/guides",
+              "slug": "/cmix/xxdk/guides/ndf-retrieval",
+              "permalink": "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "cMix Client Keystore",
+                "permalink": "/all-docs/docs/cmix/xxdk/guides/cmix-client-keystore"
+              },
+              "next": {
+                "title": "Technical Glossary",
+                "permalink": "/all-docs/docs/cmix/xxdk/technical-glossary"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/mobile docs/ios-sdk",
+              "id": "cmix/xxdk/mobile docs/ios-sdk",
+              "title": "iOS SDK",
+              "description": "Installation",
+              "source": "@site/docs/cmix/xxdk/mobile docs/ios-sdk.md",
+              "sourceDirName": "cmix/xxdk/mobile docs",
+              "slug": "/cmix/xxdk/mobile docs/ios-sdk",
+              "permalink": "/all-docs/docs/cmix/xxdk/mobile docs/ios-sdk",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API Quick Reference",
+                "permalink": "/all-docs/docs/cmix/xxdk/quick-reference"
+              },
+              "next": {
+                "title": "Reference Guides",
+                "permalink": "/all-docs/docs/category/reference-guides"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/overview",
+              "id": "cmix/xxdk/overview",
+              "title": "Overview",
+              "description": "The Client API (xxDK) is the client-side software for communicating with the cMix network, a privacy-protecting layer within the larger xx network blockchain ecosystem. cMix builds on current data protection mechanisms by extending security beyond just content to include metadata — the what, when, where, and how of user activity.",
+              "source": "@site/docs/cmix/xxdk/overview.md",
+              "sourceDirName": "cmix/xxdk",
+              "slug": "/cmix/xxdk/overview",
+              "permalink": "/all-docs/docs/cmix/xxdk/overview",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xxDK",
+                "permalink": "/all-docs/docs/category/xxdk"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/all-docs/docs/cmix/xxdk/getting-started"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/quick-reference",
+              "id": "cmix/xxdk/quick-reference",
+              "title": "API Quick Reference",
+              "description": "This document provides brief descriptions of all public functions, types, and interfaces exposed by the Client API (xxDK).",
+              "source": "@site/docs/cmix/xxdk/quick-reference.md",
+              "sourceDirName": "cmix/xxdk",
+              "slug": "/cmix/xxdk/quick-reference",
+              "permalink": "/all-docs/docs/cmix/xxdk/quick-reference",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/all-docs/docs/cmix/xxdk/getting-started"
+              },
+              "next": {
+                "title": "iOS SDK",
+                "permalink": "/all-docs/docs/cmix/xxdk/mobile docs/ios-sdk"
+              }
+            },
+            {
+              "unversionedId": "cmix/xxdk/technical-glossary",
+              "id": "cmix/xxdk/technical-glossary",
+              "title": "Technical Glossary",
+              "description": "There are several terms and concepts in these docs that are specific to the cMix network. This page lists some of the most important and a few general computing terms.",
+              "source": "@site/docs/cmix/xxdk/technical-glossary.md",
+              "sourceDirName": "cmix/xxdk",
+              "slug": "/cmix/xxdk/technical-glossary",
+              "permalink": "/all-docs/docs/cmix/xxdk/technical-glossary",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NDF Retrieval",
+                "permalink": "/all-docs/docs/cmix/xxdk/guides/ndf-retrieval"
+              },
+              "next": {
+                "title": "xx Node",
+                "permalink": "/all-docs/docs/category/xx-node"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/all-docs/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Overview",
+                "permalink": "/all-docs/docs/category/overview"
+              }
+            },
+            {
+              "unversionedId": "node/basic-linux-help",
+              "id": "node/basic-linux-help",
+              "title": "Basic Linux Help",
+              "description": "General Linux Help",
+              "source": "@site/docs/node/basic-linux-help.md",
+              "sourceDirName": "node",
+              "slug": "/node/basic-linux-help",
+              "permalink": "/all-docs/docs/node/basic-linux-help",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Set Session Keys",
+                "permalink": "/all-docs/docs/node/validator-staking/session-keys"
+              },
+              "next": {
+                "title": "xx Tools",
+                "permalink": "/all-docs/docs/category/xx-tools"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/clock-syncronization",
+              "id": "node/gateway-configuration/clock-syncronization",
+              "title": "5. Clock Synchronization",
+              "description": "In this step you will check the clock status and can re-configure it if necessary.",
+              "source": "@site/docs/node/gateway-configuration/5-clock-syncronization.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/clock-syncronization",
+              "permalink": "/all-docs/docs/node/gateway-configuration/clock-syncronization",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4. Port Forwarding Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding"
+              },
+              "next": {
+                "title": "6. TCP Network Settings",
+                "permalink": "/all-docs/docs/node/gateway-configuration/tcp-settings"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-config",
+              "id": "node/gateway-configuration/gateway-config",
+              "title": "10. Gateway Options",
+              "description": "In this step you will edit the gateway.yaml configuration file.",
+              "source": "@site/docs/node/gateway-configuration/10-gateway-config.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-config",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-config",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "9. Transfer TLS Credentials",
+                "permalink": "/all-docs/docs/node/gateway-configuration/transfer-creds"
+              },
+              "next": {
+                "title": "11. xx Network System Services",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-services-config"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-database",
+              "id": "node/gateway-configuration/gateway-database",
+              "title": "7. cMix Gateway Database Configuration",
+              "description": "In this step you will add a PostgreSQL user, set the user's password and create the gateway database.",
+              "source": "@site/docs/node/gateway-configuration/7-gateway-database.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-database",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-database",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "6. TCP Network Settings",
+                "permalink": "/all-docs/docs/node/gateway-configuration/tcp-settings"
+              },
+              "next": {
+                "title": "8. xx Network Gateway Tarball",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-tarballs"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-firewall",
+              "id": "node/gateway-configuration/gateway-firewall",
+              "title": "3. Firewall Configuration",
+              "description": "In this step you will configure the firewall of the gateway computer.",
+              "source": "@site/docs/node/gateway-configuration/3-gateway-firewall.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-firewall",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-firewall",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Software Dependencies",
+                "permalink": "/all-docs/docs/node/gateway-configuration/software-dependencies"
+              },
+              "next": {
+                "title": "4. Port Forwarding Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-port-forwarding",
+              "id": "node/gateway-configuration/gateway-port-forwarding",
+              "title": "4. Port Forwarding Configuration",
+              "description": "In this step you will configure port forwarding to the gateway computer if necessary.",
+              "source": "@site/docs/node/gateway-configuration/4-gateway-port-forwarding.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-port-forwarding",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-port-forwarding",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. Firewall Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-firewall"
+              },
+              "next": {
+                "title": "5. Clock Synchronization",
+                "permalink": "/all-docs/docs/node/gateway-configuration/clock-syncronization"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-services-config",
+              "id": "node/gateway-configuration/gateway-services-config",
+              "title": "11. xx Network System Services",
+              "description": "In this step you will configure, enable and start the chain and gateway systemd services.",
+              "source": "@site/docs/node/gateway-configuration/11-gateway-services-config.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-services-config",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-services-config",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "10. Gateway Options",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-config"
+              },
+              "next": {
+                "title": "Staking the Validator",
+                "permalink": "/all-docs/docs/category/staking-the-validator"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/gateway-tarballs",
+              "id": "node/gateway-configuration/gateway-tarballs",
+              "title": "8. xx Network Gateway Tarball",
+              "description": "In this step you will download and extract the software for the gateway computer.",
+              "source": "@site/docs/node/gateway-configuration/8-gateway-tarballs.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/gateway-tarballs",
+              "permalink": "/all-docs/docs/node/gateway-configuration/gateway-tarballs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "7. cMix Gateway Database Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-database"
+              },
+              "next": {
+                "title": "9. Transfer TLS Credentials",
+                "permalink": "/all-docs/docs/node/gateway-configuration/transfer-creds"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/getting-started",
+              "id": "node/gateway-configuration/getting-started",
+              "title": "1. Getting Started",
+              "description": "Before you begin, take a moment and consider a few things.",
+              "source": "@site/docs/node/gateway-configuration/1-getting-started.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/getting-started",
+              "permalink": "/all-docs/docs/node/gateway-configuration/getting-started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gateway Computer",
+                "permalink": "/all-docs/docs/category/gateway-computer"
+              },
+              "next": {
+                "title": "2. Software Dependencies",
+                "permalink": "/all-docs/docs/node/gateway-configuration/software-dependencies"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/software-dependencies",
+              "id": "node/gateway-configuration/software-dependencies",
+              "title": "2. Software Dependencies",
+              "description": "In this step you will update Ubuntu and the base packages, and install all of the dependent software. You can find a list of what will be installed below.",
+              "source": "@site/docs/node/gateway-configuration/2-software-dependencies.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/software-dependencies",
+              "permalink": "/all-docs/docs/node/gateway-configuration/software-dependencies",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Getting Started",
+                "permalink": "/all-docs/docs/node/gateway-configuration/getting-started"
+              },
+              "next": {
+                "title": "3. Firewall Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-firewall"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/tcp-settings",
+              "id": "node/gateway-configuration/tcp-settings",
+              "title": "6. TCP Network Settings",
+              "description": "In this step you will set TCP settings which greatly improve the performance of the node computer.",
+              "source": "@site/docs/node/gateway-configuration/6-tcp-settings.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/tcp-settings",
+              "permalink": "/all-docs/docs/node/gateway-configuration/tcp-settings",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5. Clock Synchronization",
+                "permalink": "/all-docs/docs/node/gateway-configuration/clock-syncronization"
+              },
+              "next": {
+                "title": "7. cMix Gateway Database Configuration",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-database"
+              }
+            },
+            {
+              "unversionedId": "node/gateway-configuration/transfer-creds",
+              "id": "node/gateway-configuration/transfer-creds",
+              "title": "9. Transfer TLS Credentials",
+              "description": "Three files that were genereated during the setup of the Node computer must be copied to the gateway computer, the Gateway credentials gateway-cert.crt and gateway-key.key, and the cMix public certificate, cmix-cert.crt.",
+              "source": "@site/docs/node/gateway-configuration/9-transfer-creds.md",
+              "sourceDirName": "node/gateway-configuration",
+              "slug": "/node/gateway-configuration/transfer-creds",
+              "permalink": "/all-docs/docs/node/gateway-configuration/transfer-creds",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "8. xx Network Gateway Tarball",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-tarballs"
+              },
+              "next": {
+                "title": "10. Gateway Options",
+                "permalink": "/all-docs/docs/node/gateway-configuration/gateway-config"
+              }
+            },
+            {
+              "unversionedId": "node/install-overview",
+              "id": "node/install-overview",
+              "title": "Installation Process Overview",
+              "description": "| Node Computer |Node Computer| Gateway Computer |Gateway Computer| Staking the Validator |                  |",
+              "source": "@site/docs/node/install-overview.md",
+              "sourceDirName": "node",
+              "slug": "/node/install-overview",
+              "permalink": "/all-docs/docs/node/install-overview",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Specifications",
+                "permalink": "/all-docs/docs/node/specifications"
+              },
+              "next": {
+                "title": "Node Computer",
+                "permalink": "/all-docs/docs/category/node-computer"
+              }
+            },
+            {
+              "unversionedId": "node/intro",
+              "id": "node/intro",
+              "title": "Introduction",
+              "description": "WORK IN PROGRESS",
+              "source": "@site/docs/node/intro.md",
+              "sourceDirName": "node",
+              "slug": "/node/intro",
+              "permalink": "/all-docs/docs/node/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "xx Node",
+                "permalink": "/all-docs/docs/category/xx-node"
+              },
+              "next": {
+                "title": "Specifications",
+                "permalink": "/all-docs/docs/node/specifications"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/clock-syncronization",
+              "id": "node/node-configuration/clock-syncronization",
+              "title": "5. Clock Synchronization",
+              "description": "In this step you will check the clock status and can re-configure it if necessary.",
+              "source": "@site/docs/node/node-configuration/5-clock-syncronization.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/clock-syncronization",
+              "permalink": "/all-docs/docs/node/node-configuration/clock-syncronization",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4. Port Forwarding Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-port-forwarding"
+              },
+              "next": {
+                "title": "6. TCP Network Settings",
+                "permalink": "/all-docs/docs/node/node-configuration/tcp-settings"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/generate-creds",
+              "id": "node/node-configuration/generate-creds",
+              "title": "9. Generate cMix TLS Credentials",
+              "description": "In this step you will generate the TLS credentials required for your node and gateway computers to connect to others on the xx Network.",
+              "source": "@site/docs/node/node-configuration/9-generate-creds.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/generate-creds",
+              "permalink": "/all-docs/docs/node/node-configuration/generate-creds",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "8. xx Network Node Tarball",
+                "permalink": "/all-docs/docs/node/node-configuration/node-tarballs"
+              },
+              "next": {
+                "title": "10. cMix Options",
+                "permalink": "/all-docs/docs/node/node-configuration/node-config"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/getting-started",
+              "id": "node/node-configuration/getting-started",
+              "title": "1. Getting Started",
+              "description": "Before you begin, take a moment and consider a few things.",
+              "source": "@site/docs/node/node-configuration/1-getting-started.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/getting-started",
+              "permalink": "/all-docs/docs/node/node-configuration/getting-started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Node Computer",
+                "permalink": "/all-docs/docs/category/node-computer"
+              },
+              "next": {
+                "title": "2. Software Dependencies",
+                "permalink": "/all-docs/docs/node/node-configuration/software-dependencies"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-config",
+              "id": "node/node-configuration/node-config",
+              "title": "10. cMix Options",
+              "description": "In this step you will edit the cmix.yaml configuration file.",
+              "source": "@site/docs/node/node-configuration/10-node-config.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-config",
+              "permalink": "/all-docs/docs/node/node-configuration/node-config",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "9. Generate cMix TLS Credentials",
+                "permalink": "/all-docs/docs/node/node-configuration/generate-creds"
+              },
+              "next": {
+                "title": "11. xx Network System Services",
+                "permalink": "/all-docs/docs/node/node-configuration/node-services-config"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-database",
+              "id": "node/node-configuration/node-database",
+              "title": "7. cMix Node Database Configuration",
+              "description": "In this step you will add a PostgreSQL user, set the user's password and create the node database.",
+              "source": "@site/docs/node/node-configuration/7-node-database.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-database",
+              "permalink": "/all-docs/docs/node/node-configuration/node-database",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "6. TCP Network Settings",
+                "permalink": "/all-docs/docs/node/node-configuration/tcp-settings"
+              },
+              "next": {
+                "title": "8. xx Network Node Tarball",
+                "permalink": "/all-docs/docs/node/node-configuration/node-tarballs"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-firewall",
+              "id": "node/node-configuration/node-firewall",
+              "title": "3. Firewall Configuration",
+              "description": "In this step you will configure the firewall of the node computer.",
+              "source": "@site/docs/node/node-configuration/3-node-firewall.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-firewall",
+              "permalink": "/all-docs/docs/node/node-configuration/node-firewall",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Software Dependencies",
+                "permalink": "/all-docs/docs/node/node-configuration/software-dependencies"
+              },
+              "next": {
+                "title": "4. Port Forwarding Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-port-forwarding"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-port-forwarding",
+              "id": "node/node-configuration/node-port-forwarding",
+              "title": "4. Port Forwarding Configuration",
+              "description": "In this step you will configure port forwarding to the node computer if necessary.",
+              "source": "@site/docs/node/node-configuration/4-node-port-forwarding.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-port-forwarding",
+              "permalink": "/all-docs/docs/node/node-configuration/node-port-forwarding",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. Firewall Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-firewall"
+              },
+              "next": {
+                "title": "5. Clock Synchronization",
+                "permalink": "/all-docs/docs/node/node-configuration/clock-syncronization"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-services-config",
+              "id": "node/node-configuration/node-services-config",
+              "title": "11. xx Network System Services",
+              "description": "In this step you will configure, enable and start the chain and cmix systemd services.",
+              "source": "@site/docs/node/node-configuration/11-node-services-config.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-services-config",
+              "permalink": "/all-docs/docs/node/node-configuration/node-services-config",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "10. cMix Options",
+                "permalink": "/all-docs/docs/node/node-configuration/node-config"
+              },
+              "next": {
+                "title": "Gateway Computer",
+                "permalink": "/all-docs/docs/category/gateway-computer"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/node-tarballs",
+              "id": "node/node-configuration/node-tarballs",
+              "title": "8. xx Network Node Tarball",
+              "description": "In this step you will download and extract the software for the node computer.",
+              "source": "@site/docs/node/node-configuration/8-node-tarballs.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/node-tarballs",
+              "permalink": "/all-docs/docs/node/node-configuration/node-tarballs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "7. cMix Node Database Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-database"
+              },
+              "next": {
+                "title": "9. Generate cMix TLS Credentials",
+                "permalink": "/all-docs/docs/node/node-configuration/generate-creds"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/software-dependencies",
+              "id": "node/node-configuration/software-dependencies",
+              "title": "2. Software Dependencies",
+              "description": "In this step you will update Ubuntu and the base packages, and install all of the dependent software. You can find a list of what will be installed below.",
+              "source": "@site/docs/node/node-configuration/2-software-dependencies.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/software-dependencies",
+              "permalink": "/all-docs/docs/node/node-configuration/software-dependencies",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Getting Started",
+                "permalink": "/all-docs/docs/node/node-configuration/getting-started"
+              },
+              "next": {
+                "title": "3. Firewall Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-firewall"
+              }
+            },
+            {
+              "unversionedId": "node/node-configuration/tcp-settings",
+              "id": "node/node-configuration/tcp-settings",
+              "title": "6. TCP Network Settings",
+              "description": "In this step you will set TCP settings which greatly improve the performance of the node computer.",
+              "source": "@site/docs/node/node-configuration/6-tcp-settings.md",
+              "sourceDirName": "node/node-configuration",
+              "slug": "/node/node-configuration/tcp-settings",
+              "permalink": "/all-docs/docs/node/node-configuration/tcp-settings",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5. Clock Synchronization",
+                "permalink": "/all-docs/docs/node/node-configuration/clock-syncronization"
+              },
+              "next": {
+                "title": "7. cMix Node Database Configuration",
+                "permalink": "/all-docs/docs/node/node-configuration/node-database"
+              }
+            },
+            {
+              "unversionedId": "node/specifications",
+              "id": "node/specifications",
+              "title": "Specifications",
+              "description": "Node Computer",
+              "source": "@site/docs/node/specifications.md",
+              "sourceDirName": "node",
+              "slug": "/node/specifications",
+              "permalink": "/all-docs/docs/node/specifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/all-docs/docs/node/intro"
+              },
+              "next": {
+                "title": "Installation Process Overview",
+                "permalink": "/all-docs/docs/node/install-overview"
+              }
+            },
+            {
+              "unversionedId": "node/validator-staking/accounts",
+              "id": "node/validator-staking/accounts",
+              "title": "1. Stash and Controller Accounts",
+              "description": "Link - https://wallet.xx.network/#/accounts/generate",
+              "source": "@site/docs/node/validator-staking/2-accounts.md",
+              "sourceDirName": "node/validator-staking",
+              "slug": "/node/validator-staking/accounts",
+              "permalink": "/all-docs/docs/node/validator-staking/accounts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Getting Started",
+                "permalink": "/all-docs/docs/node/validator-staking/getting-started"
+              },
+              "next": {
+                "title": "1. Check cmix-wrapper.log",
+                "permalink": "/all-docs/docs/node/validator-staking/validator-status"
+              }
+            },
+            {
+              "unversionedId": "node/validator-staking/getting-started",
+              "id": "node/validator-staking/getting-started",
+              "title": "1. Getting Started",
+              "description": "Before you begin, take a moment and consider a few things.",
+              "source": "@site/docs/node/validator-staking/1-getting-started.md",
+              "sourceDirName": "node/validator-staking",
+              "slug": "/node/validator-staking/getting-started",
+              "permalink": "/all-docs/docs/node/validator-staking/getting-started",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Staking the Validator",
+                "permalink": "/all-docs/docs/category/staking-the-validator"
+              },
+              "next": {
+                "title": "1. Stash and Controller Accounts",
+                "permalink": "/all-docs/docs/node/validator-staking/accounts"
+              }
+            },
+            {
+              "unversionedId": "node/validator-staking/session-keys",
+              "id": "node/validator-staking/session-keys",
+              "title": "1. Set Session Keys",
+              "description": "json file location",
+              "source": "@site/docs/node/validator-staking/4-session-keys.md",
+              "sourceDirName": "node/validator-staking",
+              "slug": "/node/validator-staking/session-keys",
+              "permalink": "/all-docs/docs/node/validator-staking/session-keys",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Check cmix-wrapper.log",
+                "permalink": "/all-docs/docs/node/validator-staking/validator-status"
+              },
+              "next": {
+                "title": "Basic Linux Help",
+                "permalink": "/all-docs/docs/node/basic-linux-help"
+              }
+            },
+            {
+              "unversionedId": "node/validator-staking/validator-status",
+              "id": "node/validator-staking/validator-status",
+              "title": "1. Check cmix-wrapper.log",
+              "description": "Ready example",
+              "source": "@site/docs/node/validator-staking/3-validator-status.md",
+              "sourceDirName": "node/validator-staking",
+              "slug": "/node/validator-staking/validator-status",
+              "permalink": "/all-docs/docs/node/validator-staking/validator-status",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Stash and Controller Accounts",
+                "permalink": "/all-docs/docs/node/validator-staking/accounts"
+              },
+              "next": {
+                "title": "1. Set Session Keys",
+                "permalink": "/all-docs/docs/node/validator-staking/session-keys"
+              }
+            },
+            {
+              "unversionedId": "overview/chain",
+              "id": "overview/chain",
+              "title": "What is xx Chain?",
+              "description": "xx Chain is the unique consensus protocol that protects and secures the xx network blockchain. After transactional data is neutralized through xx cMix, payments are passed to the decentralized xx nodes running the xx Chain protocol. The nodes then confirm transactions and add them to the xx blockchain. Learn more in the xx consensus whitepaper.",
+              "source": "@site/docs/overview/chain.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/chain",
+              "permalink": "/all-docs/docs/overview/chain",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is xx Network?",
+                "permalink": "/all-docs/docs/overview/xxnetwork"
+              },
+              "next": {
+                "title": "What is xx cMix?",
+                "permalink": "/all-docs/docs/overview/cmix"
+              }
+            },
+            {
+              "unversionedId": "overview/cmix",
+              "id": "overview/cmix",
+              "title": "What is xx cMix?",
+              "description": "xx cMix is the end-to-end encryption tool we use to protect your privacy. It uses a revolutionary metadata shredding technology that obscures the metadata you share when sending messages, making payments, and transferring data. xx cMix does this by mixing all transactions together in batches or “anonymity sets” and processing them simultaneously, which shreds all metadata and prevents third parties from analyzing activity patterns and connecting senders to recipients. Read more about it in the xx cMix whitepaper.",
+              "source": "@site/docs/overview/cmix.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/cmix",
+              "permalink": "/all-docs/docs/overview/cmix",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "What is xx Chain?",
+                "permalink": "/all-docs/docs/overview/chain"
+              },
+              "next": {
+                "title": "xx Chain",
+                "permalink": "/all-docs/docs/category/xx-chain"
+              }
+            },
+            {
+              "unversionedId": "overview/xxnetwork",
+              "id": "overview/xxnetwork",
+              "title": "What is xx Network?",
+              "description": "xx Network is the secure and efficient decentralized ecosystem of the future. The network combines xx Chain protocol with the privacy-protecting xx cMix technology to power a full suite of cutting-edge tech. The result is the first efficient online platform that allows you to quickly and securely communicate and exchange digital currencies on your smartphone without risking the safety of your metadata. While many messaging platforms are encrypted, no one protects your metadata the way we do. Read more about the xx Network in our designated whitepaper.",
+              "source": "@site/docs/overview/xxnetwork.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/xxnetwork",
+              "permalink": "/all-docs/docs/overview/xxnetwork",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/all-docs/docs/category/overview"
+              },
+              "next": {
+                "title": "What is xx Chain?",
+                "permalink": "/all-docs/docs/overview/chain"
+              }
+            },
+            {
+              "unversionedId": "todo",
+              "id": "todo",
+              "title": "todo",
+              "description": "",
+              "source": "@site/docs/todo.md",
+              "sourceDirName": ".",
+              "slug": "/todo",
+              "permalink": "/all-docs/docs/todo",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "validate",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/validate"
+              }
+            },
+            {
+              "unversionedId": "tools/dashboard/dashboard",
+              "id": "tools/dashboard/dashboard",
+              "title": "dashboard",
+              "description": "",
+              "source": "@site/docs/tools/dashboard/dashboard.md",
+              "sourceDirName": "tools/dashboard",
+              "slug": "/tools/dashboard/",
+              "permalink": "/all-docs/docs/tools/dashboard/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "cMix Dashboard",
+                "permalink": "/all-docs/docs/category/cmix-dashboard"
+              },
+              "next": {
+                "title": "Sleeve Wallet Generator",
+                "permalink": "/all-docs/docs/category/sleeve-wallet-generator"
+              }
+            },
+            {
+              "unversionedId": "tools/explorer/explorer",
+              "id": "tools/explorer/explorer",
+              "title": "explorer",
+              "description": "",
+              "source": "@site/docs/tools/explorer/explorer.md",
+              "sourceDirName": "tools/explorer",
+              "slug": "/tools/explorer/",
+              "permalink": "/all-docs/docs/tools/explorer/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chain Explorer",
+                "permalink": "/all-docs/docs/category/chain-explorer"
+              },
+              "next": {
+                "title": "cMix Dashboard",
+                "permalink": "/all-docs/docs/category/cmix-dashboard"
+              }
+            },
+            {
+              "unversionedId": "tools/simpleStaking/simpleStaking",
+              "id": "tools/simpleStaking/simpleStaking",
+              "title": "simpleStaking",
+              "description": "",
+              "source": "@site/docs/tools/simpleStaking/simpleStaking.md",
+              "sourceDirName": "tools/simpleStaking",
+              "slug": "/tools/simpleStaking/",
+              "permalink": "/all-docs/docs/tools/simpleStaking/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simple Staking",
+                "permalink": "/all-docs/docs/category/simple-staking"
+              },
+              "next": {
+                "title": "Web Wallet",
+                "permalink": "/all-docs/docs/category/web-wallet"
+              }
+            },
+            {
+              "unversionedId": "tools/sleeve/sleeve",
+              "id": "tools/sleeve/sleeve",
+              "title": "sleeve",
+              "description": "",
+              "source": "@site/docs/tools/sleeve/sleeve.md",
+              "sourceDirName": "tools/sleeve",
+              "slug": "/tools/sleeve/",
+              "permalink": "/all-docs/docs/tools/sleeve/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sleeve Wallet Generator",
+                "permalink": "/all-docs/docs/category/sleeve-wallet-generator"
+              },
+              "next": {
+                "title": "Simple Staking",
+                "permalink": "/all-docs/docs/category/simple-staking"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/accountTypes",
+              "id": "tools/webWallet/accounts/accountTypes",
+              "title": "accountTypes",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/accountTypes.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/accountTypes",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/accountTypes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Accounts",
+                "permalink": "/all-docs/docs/category/accounts"
+              },
+              "next": {
+                "title": "generateAccount",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/generateAccount"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/addAccount",
+              "id": "tools/webWallet/accounts/addAccount",
+              "title": "addAccount",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/addAccount.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/addAccount",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/addAccount",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "generateAccount",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/generateAccount"
+              },
+              "next": {
+                "title": "addContact",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/addContact"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/addContact",
+              "id": "tools/webWallet/accounts/addContact",
+              "title": "addContact",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/addContact.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/addContact",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/addContact",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "addAccount",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/addAccount"
+              },
+              "next": {
+                "title": "claim",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/claim"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/claim",
+              "id": "tools/webWallet/accounts/claim",
+              "title": "claim",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/claim.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/claim",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/claim",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "addContact",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/addContact"
+              },
+              "next": {
+                "title": "receive",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/receive"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/generateAccount",
+              "id": "tools/webWallet/accounts/generateAccount",
+              "title": "generateAccount",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/generateAccount.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/generateAccount",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/generateAccount",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "accountTypes",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/accountTypes"
+              },
+              "next": {
+                "title": "addAccount",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/addAccount"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/receive",
+              "id": "tools/webWallet/accounts/receive",
+              "title": "receive",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/receive.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/receive",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/receive",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "claim",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/claim"
+              },
+              "next": {
+                "title": "send",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/send"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/accounts/send",
+              "id": "tools/webWallet/accounts/send",
+              "title": "send",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/accounts/send.md",
+              "sourceDirName": "tools/webWallet/accounts",
+              "slug": "/tools/webWallet/accounts/send",
+              "permalink": "/all-docs/docs/tools/webWallet/accounts/send",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "receive",
+                "permalink": "/all-docs/docs/tools/webWallet/accounts/receive"
+              },
+              "next": {
+                "title": "Governance",
+                "permalink": "/all-docs/docs/category/governance"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/endpoints",
+              "id": "tools/webWallet/endpoints",
+              "title": "Selecting an Endpoint",
+              "description": "How to",
+              "source": "@site/docs/tools/webWallet/endpoints.md",
+              "sourceDirName": "tools/webWallet",
+              "slug": "/tools/webWallet/endpoints",
+              "permalink": "/all-docs/docs/tools/webWallet/endpoints",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/all-docs/docs/tools/webWallet/"
+              },
+              "next": {
+                "title": "Accounts",
+                "permalink": "/all-docs/docs/category/accounts"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/governance/voting",
+              "id": "tools/webWallet/governance/voting",
+              "title": "voting",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/governance/voting.md",
+              "sourceDirName": "tools/webWallet/governance",
+              "slug": "/tools/webWallet/governance/voting",
+              "permalink": "/all-docs/docs/tools/webWallet/governance/voting",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Governance",
+                "permalink": "/all-docs/docs/category/governance"
+              },
+              "next": {
+                "title": "Staking",
+                "permalink": "/all-docs/docs/category/staking"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/bond",
+              "id": "tools/webWallet/staking/bond",
+              "title": "bond",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/bond.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/bond",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/bond",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Staking",
+                "permalink": "/all-docs/docs/category/staking"
+              },
+              "next": {
+                "title": "nominate",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/nominate"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/nominate",
+              "id": "tools/webWallet/staking/nominate",
+              "title": "nominate",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/nominate.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/nominate",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/nominate",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "bond",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/bond"
+              },
+              "next": {
+                "title": "payout",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/payout"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/payout",
+              "id": "tools/webWallet/staking/payout",
+              "title": "payout",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/payout.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/payout",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/payout",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "nominate",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/nominate"
+              },
+              "next": {
+                "title": "staking",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/staking",
+              "id": "tools/webWallet/staking/staking",
+              "title": "staking",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/staking.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "payout",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/payout"
+              },
+              "next": {
+                "title": "unbond",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/unbond"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/unbond",
+              "id": "tools/webWallet/staking/unbond",
+              "title": "unbond",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/unbond.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/unbond",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/unbond",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "staking",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/"
+              },
+              "next": {
+                "title": "validate",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/validate"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/staking/validate",
+              "id": "tools/webWallet/staking/validate",
+              "title": "validate",
+              "description": "",
+              "source": "@site/docs/tools/webWallet/staking/validate.md",
+              "sourceDirName": "tools/webWallet/staking",
+              "slug": "/tools/webWallet/staking/validate",
+              "permalink": "/all-docs/docs/tools/webWallet/staking/validate",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "unbond",
+                "permalink": "/all-docs/docs/tools/webWallet/staking/unbond"
+              },
+              "next": {
+                "title": "todo",
+                "permalink": "/all-docs/docs/todo"
+              }
+            },
+            {
+              "unversionedId": "tools/webWallet/webwallet",
+              "id": "tools/webWallet/webwallet",
+              "title": "Introduction",
+              "description": "Description",
+              "source": "@site/docs/tools/webWallet/webwallet.md",
+              "sourceDirName": "tools/webWallet",
+              "slug": "/tools/webWallet/",
+              "permalink": "/all-docs/docs/tools/webWallet/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Web Wallet",
+                "permalink": "/all-docs/docs/category/web-wallet"
+              },
+              "next": {
+                "title": "Selecting an Endpoint",
+                "permalink": "/all-docs/docs/tools/webWallet/endpoints"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Overview",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "overview/xxnetwork"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "overview/chain"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "overview/cmix"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Overview of the xx Network",
+                  "slug": "/category/overview",
+                  "permalink": "/all-docs/docs/category/overview"
+                }
+              },
+              {
+                "type": "category",
+                "label": "xx Chain",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chain/chain"
+                  },
+                  {
+                    "type": "category",
+                    "label": "API Documents",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/constants"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/errors"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/events"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/extrinsics"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/rpc"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/runtime"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "chain/API Documents/storage"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "All things related to Chain",
+                      "slug": "/category/api-documents",
+                      "permalink": "/all-docs/docs/category/api-documents"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "All things related to Chain",
+                  "slug": "/category/xx-chain",
+                  "permalink": "/all-docs/docs/category/xx-chain"
+                }
+              },
+              {
+                "type": "category",
+                "label": "xx cMix",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "cmix/cmix"
+                  },
+                  {
+                    "type": "category",
+                    "label": "xxDK",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "cmix/xxdk/overview"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cmix/xxdk/getting-started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cmix/xxdk/quick-reference"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Mobile Docs",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "cmix/xxdk/mobile docs/ios-sdk"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "Reference Guides",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "cmix/xxdk/guides/cmix-client-keystore"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "cmix/xxdk/guides/ndf-retrieval"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "All things related to cMix",
+                          "slug": "/category/reference-guides",
+                          "permalink": "/all-docs/docs/category/reference-guides"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cmix/xxdk/technical-glossary"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "All things related to cMix",
+                      "slug": "/category/xxdk",
+                      "permalink": "/all-docs/docs/category/xxdk"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "All things related to cMix",
+                  "slug": "/category/xx-cmix",
+                  "permalink": "/all-docs/docs/category/xx-cmix"
+                }
+              },
+              {
+                "type": "category",
+                "label": "xx Node",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "node/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "node/specifications"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "node/install-overview"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Node Computer",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/getting-started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/software-dependencies"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-firewall"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-port-forwarding"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/clock-syncronization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/tcp-settings"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-database"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-tarballs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/generate-creds"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-config"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/node-configuration/node-services-config"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Node",
+                      "slug": "/category/node-computer",
+                      "permalink": "/all-docs/docs/category/node-computer"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Gateway Computer",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/getting-started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/software-dependencies"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-firewall"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-port-forwarding"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/clock-syncronization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/tcp-settings"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-database"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-tarballs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/transfer-creds"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-config"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/gateway-configuration/gateway-services-config"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Gateway",
+                      "slug": "/category/gateway-computer",
+                      "permalink": "/all-docs/docs/category/gateway-computer"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Staking the Validator",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "node/validator-staking/getting-started"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/validator-staking/accounts"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/validator-staking/validator-status"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "node/validator-staking/session-keys"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Validator",
+                      "slug": "/category/staking-the-validator",
+                      "permalink": "/all-docs/docs/category/staking-the-validator"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "node/basic-linux-help"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Run a node",
+                  "slug": "/category/xx-node",
+                  "permalink": "/all-docs/docs/category/xx-node"
+                }
+              },
+              {
+                "type": "category",
+                "label": "xx Tools",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Chain Explorer",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/explorer/explorer"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "How to get things done",
+                      "slug": "/category/chain-explorer",
+                      "permalink": "/all-docs/docs/category/chain-explorer"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "cMix Dashboard",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/dashboard/dashboard"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "How to get things done",
+                      "slug": "/category/cmix-dashboard",
+                      "permalink": "/all-docs/docs/category/cmix-dashboard"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Sleeve Wallet Generator",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/sleeve/sleeve"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "How to get things done",
+                      "slug": "/category/sleeve-wallet-generator",
+                      "permalink": "/all-docs/docs/category/sleeve-wallet-generator"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Simple Staking",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/simpleStaking/simpleStaking"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "How to get things done",
+                      "slug": "/category/simple-staking",
+                      "permalink": "/all-docs/docs/category/simple-staking"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Web Wallet",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/webWallet/webwallet"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "tools/webWallet/endpoints"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Accounts",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/accountTypes"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/generateAccount"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/addAccount"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/addContact"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/claim"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/receive"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/accounts/send"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Accounts",
+                          "slug": "/category/accounts",
+                          "permalink": "/all-docs/docs/category/accounts"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Governance",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/governance/voting"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Governance",
+                          "slug": "/category/governance",
+                          "permalink": "/all-docs/docs/category/governance"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Staking",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/bond"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/nominate"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/payout"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/staking"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/unbond"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "tools/webWallet/staking/validate"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Staking",
+                          "slug": "/category/staking",
+                          "permalink": "/all-docs/docs/category/staking"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "How to use the xx Network Web Wallet",
+                      "slug": "/category/web-wallet",
+                      "permalink": "/all-docs/docs/category/web-wallet"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "How to get things done",
+                  "slug": "/category/xx-tools",
+                  "permalink": "/all-docs/docs/category/xx-tools"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "todo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/all-docs/blog/welcome",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/all-docs/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/all-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/all-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/all-docs/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/all-docs/blog/mdx-blog-post",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/all-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/all-docs/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/all-docs/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/all-docs/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/all-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/all-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/all-docs/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/all-docs/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/all-docs/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/all-docs/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/all-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/all-docs/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/all-docs/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/all-docs/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/all-docs/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/all-docs/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/all-docs/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/all-docs/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/all-docs/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/all-docs/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/all-docs/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/all-docs/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/all-docs/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/all-docs/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/all-docs/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/all-docs/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/all-docs/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

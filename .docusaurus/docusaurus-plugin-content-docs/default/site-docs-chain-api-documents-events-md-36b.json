@@ -1,0 +1,25 @@
+{
+  "unversionedId": "chain/API Documents/events",
+  "id": "chain/API Documents/events",
+  "title": "Events",
+  "description": "Events are emitted for certain operations on the runtime. The following sections describe the events that are part of the default Substrate runtime.",
+  "source": "@site/docs/chain/API Documents/events.md",
+  "sourceDirName": "chain/API Documents",
+  "slug": "/chain/API Documents/events",
+  "permalink": "/all-docs/docs/chain/API Documents/events",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Events"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Errors",
+    "permalink": "/all-docs/docs/chain/API Documents/errors"
+  },
+  "next": {
+    "title": "Extrinsics",
+    "permalink": "/all-docs/docs/chain/API Documents/extrinsics"
+  }
+}

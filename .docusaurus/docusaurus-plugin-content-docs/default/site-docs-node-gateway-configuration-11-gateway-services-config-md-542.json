@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/gateway-configuration/gateway-services-config",
+  "id": "node/gateway-configuration/gateway-services-config",
+  "title": "11. xx Network System Services",
+  "description": "In this step you will configure, enable and start the chain and gateway systemd services.",
+  "source": "@site/docs/node/gateway-configuration/11-gateway-services-config.md",
+  "sourceDirName": "node/gateway-configuration",
+  "slug": "/node/gateway-configuration/gateway-services-config",
+  "permalink": "/all-docs/docs/node/gateway-configuration/gateway-services-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "10. Gateway Options",
+    "permalink": "/all-docs/docs/node/gateway-configuration/gateway-config"
+  },
+  "next": {
+    "title": "Staking the Validator",
+    "permalink": "/all-docs/docs/category/staking-the-validator"
+  }
+}

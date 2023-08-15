@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tools/webWallet/accounts/addContact",
+  "id": "tools/webWallet/accounts/addContact",
+  "title": "addContact",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/accounts/addContact.md",
+  "sourceDirName": "tools/webWallet/accounts",
+  "slug": "/tools/webWallet/accounts/addContact",
+  "permalink": "/all-docs/docs/tools/webWallet/accounts/addContact",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "addAccount",
+    "permalink": "/all-docs/docs/tools/webWallet/accounts/addAccount"
+  },
+  "next": {
+    "title": "claim",
+    "permalink": "/all-docs/docs/tools/webWallet/accounts/claim"
+  }
+}

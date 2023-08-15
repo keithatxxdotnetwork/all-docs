@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/node-configuration/node-tarballs",
+  "id": "node/node-configuration/node-tarballs",
+  "title": "8. xx Network Node Tarball",
+  "description": "In this step you will download and extract the software for the node computer.",
+  "source": "@site/docs/node/node-configuration/8-node-tarballs.md",
+  "sourceDirName": "node/node-configuration",
+  "slug": "/node/node-configuration/node-tarballs",
+  "permalink": "/all-docs/docs/node/node-configuration/node-tarballs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7. cMix Node Database Configuration",
+    "permalink": "/all-docs/docs/node/node-configuration/node-database"
+  },
+  "next": {
+    "title": "9. Generate cMix TLS Credentials",
+    "permalink": "/all-docs/docs/node/node-configuration/generate-creds"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/validator-staking/validator-status",
+  "id": "node/validator-staking/validator-status",
+  "title": "1. Check cmix-wrapper.log",
+  "description": "Ready example",
+  "source": "@site/docs/node/validator-staking/3-validator-status.md",
+  "sourceDirName": "node/validator-staking",
+  "slug": "/node/validator-staking/validator-status",
+  "permalink": "/all-docs/docs/node/validator-staking/validator-status",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Stash and Controller Accounts",
+    "permalink": "/all-docs/docs/node/validator-staking/accounts"
+  },
+  "next": {
+    "title": "1. Set Session Keys",
+    "permalink": "/all-docs/docs/node/validator-staking/session-keys"
+  }
+}

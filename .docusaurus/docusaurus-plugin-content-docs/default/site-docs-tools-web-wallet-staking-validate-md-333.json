@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/webWallet/staking/validate",
+  "id": "tools/webWallet/staking/validate",
+  "title": "validate",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/staking/validate.md",
+  "sourceDirName": "tools/webWallet/staking",
+  "slug": "/tools/webWallet/staking/validate",
+  "permalink": "/all-docs/docs/tools/webWallet/staking/validate",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unbond",
+    "permalink": "/all-docs/docs/tools/webWallet/staking/unbond"
+  },
+  "next": {
+    "title": "todo",
+    "permalink": "/all-docs/docs/todo"
+  }
+}

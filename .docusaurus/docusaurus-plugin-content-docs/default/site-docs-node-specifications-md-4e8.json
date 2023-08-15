@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/specifications",
+  "id": "node/specifications",
+  "title": "Specifications",
+  "description": "Node Computer",
+  "source": "@site/docs/node/specifications.md",
+  "sourceDirName": "node",
+  "slug": "/node/specifications",
+  "permalink": "/all-docs/docs/node/specifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/all-docs/docs/node/intro"
+  },
+  "next": {
+    "title": "Installation Process Overview",
+    "permalink": "/all-docs/docs/node/install-overview"
+  }
+}

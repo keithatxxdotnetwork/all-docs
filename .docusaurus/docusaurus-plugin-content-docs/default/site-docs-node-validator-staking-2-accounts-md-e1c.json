@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/validator-staking/accounts",
+  "id": "node/validator-staking/accounts",
+  "title": "1. Stash and Controller Accounts",
+  "description": "Link - https://wallet.xx.network/#/accounts/generate",
+  "source": "@site/docs/node/validator-staking/2-accounts.md",
+  "sourceDirName": "node/validator-staking",
+  "slug": "/node/validator-staking/accounts",
+  "permalink": "/all-docs/docs/node/validator-staking/accounts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Getting Started",
+    "permalink": "/all-docs/docs/node/validator-staking/getting-started"
+  },
+  "next": {
+    "title": "1. Check cmix-wrapper.log",
+    "permalink": "/all-docs/docs/node/validator-staking/validator-status"
+  }
+}

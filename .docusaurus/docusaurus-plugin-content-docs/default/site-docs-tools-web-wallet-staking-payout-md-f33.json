@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/webWallet/staking/payout",
+  "id": "tools/webWallet/staking/payout",
+  "title": "payout",
+  "description": "",
+  "source": "@site/docs/tools/webWallet/staking/payout.md",
+  "sourceDirName": "tools/webWallet/staking",
+  "slug": "/tools/webWallet/staking/payout",
+  "permalink": "/all-docs/docs/tools/webWallet/staking/payout",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nominate",
+    "permalink": "/all-docs/docs/tools/webWallet/staking/nominate"
+  },
+  "next": {
+    "title": "staking",
+    "permalink": "/all-docs/docs/tools/webWallet/staking/"
+  }
+}

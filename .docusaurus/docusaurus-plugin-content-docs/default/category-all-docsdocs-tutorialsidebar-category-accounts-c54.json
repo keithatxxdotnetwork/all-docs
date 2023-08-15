@@ -1,0 +1,16 @@
+{
+  "title": "Accounts",
+  "description": "Accounts",
+  "slug": "/category/accounts",
+  "permalink": "/all-docs/docs/category/accounts",
+  "navigation": {
+    "previous": {
+      "title": "Selecting an Endpoint",
+      "permalink": "/all-docs/docs/tools/webWallet/endpoints"
+    },
+    "next": {
+      "title": "accountTypes",
+      "permalink": "/all-docs/docs/tools/webWallet/accounts/accountTypes"
+    }
+  }
+}

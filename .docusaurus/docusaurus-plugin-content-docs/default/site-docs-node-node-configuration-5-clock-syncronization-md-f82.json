@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/node-configuration/clock-syncronization",
+  "id": "node/node-configuration/clock-syncronization",
+  "title": "5. Clock Synchronization",
+  "description": "In this step you will check the clock status and can re-configure it if necessary.",
+  "source": "@site/docs/node/node-configuration/5-clock-syncronization.md",
+  "sourceDirName": "node/node-configuration",
+  "slug": "/node/node-configuration/clock-syncronization",
+  "permalink": "/all-docs/docs/node/node-configuration/clock-syncronization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4. Port Forwarding Configuration",
+    "permalink": "/all-docs/docs/node/node-configuration/node-port-forwarding"
+  },
+  "next": {
+    "title": "6. TCP Network Settings",
+    "permalink": "/all-docs/docs/node/node-configuration/tcp-settings"
+  }
+}
