@@ -97,17 +97,12 @@ const config = {
             title: 'About',
             items: [
               {
-                label: 'xx Foundation',
-                to: '/docs/todo',
+                label: 'xx Network',
+                href: 'https://xx.network/mission/',
               },
-            ],
-          },
-          {
-            title: 'Docs',
-            items: [
               {
-                label: 'cMix',
-                to: '/docs/intro',
+                label: 'xx Foundation',
+                href: 'https://xxfoundation.org/entity/',
               },
             ],
           },
@@ -131,10 +126,10 @@ const config = {
           {
             title: 'More',
             items: [
-               {
+/*                {
                 label: 'Blog',
                 to: '/blog',
-              },
+              }, */
               {
                 label: 'GitHub',
                 href: 'https://github.com/keithatxxdotnetwork/all-docs',
