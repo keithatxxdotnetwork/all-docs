@@ -116,7 +116,15 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/Y8pCkbK',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/xxnetwork',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/xx_network',
               },
             ],
           },
