@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'xx Network',
   tagline: 'Quick links to end-user tools ...',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
 
   // Set the production url of your site here
   url: 'https://keithatxxdotnetwork.github.io',
