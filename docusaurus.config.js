@@ -84,7 +84,7 @@ const config = {
           },
           // {to: '/blog', label: 'News', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/keithatxxdotnetwork/all-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -129,7 +129,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/keithatxxdotnetwork/all-docs',
               },
             ],
           },
