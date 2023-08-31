@@ -1,8 +1,8 @@
+# Anonymous Data Retrieval Protocol
+
 The Anonymous Data Retrieval Protocol (ADRP) allows users to request
 data anonymously from a server without ever revealing their identity.
-With normal
-[end-to-end](End-to-End_Encrypted_Messaging_in_xx_Messenger "wikilink")
-connections in the xx network, users always know the identity of whom
+With normal [end-to-end](e2e-xxm) connections in the xx network, users always know the identity of whom
 they are messaging. With ADRP, one can send a request to another user
 containing a one-time-use key negotiation for an entirely new user. The
 recipient can respond to the negotiation without ever knowing the
@@ -12,9 +12,9 @@ anonymous data lookup is guaranteed.
 
 This protocol is open for use with the
 [xxDK](https://git.xx.network/elixxir/client) and is the basis for the
-[User Discovery](User_Discovery "wikilink") system’s privacy.
+[User Discovery](userDiscovery) system’s privacy.
 
-### Protocol Description
+## Protocol Description
 
 The requestor needs to know the xx messenger contact details
 (cryptographic identity) of any user they request on the network

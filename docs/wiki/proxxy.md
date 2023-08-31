@@ -1,4 +1,4 @@
-Welcome to the Proxxy wiki page.
+# Proxxy
 
 Proxxy is a technology that leverages the xx network's
 [cMix](What_is_cMix? "wikilink") network to provide metadata protection
@@ -173,105 +173,104 @@ Settings -> Security & Privacy and disable the following:
 
 ## Download and Install
 
-1.  **The Proxxy app is available for Windows, Linux and Mac machines.**
-2.  **Refer to the detailed instructions below for your operating
+**The Proxxy app is available for Windows, Linux and Mac machines.**
+**Refer to the detailed instructions below for your operating
     system.**
-    1.  Windows Instructions.
-        1.  Download the Proxxy file for Windows
-            [here](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-win-x64.exe).
-        2.  In the file browser, navigate to the folder where the
-            application was downloaded to and double-click the file.
-            
-            ![](@site/static/img/Downloaded_Proxxy_Exe_file.png)
-            
-        3.  You may get a notice saying "Windows protected your PC"
-            preventing you from running the program. This is common with
-            newer applications that have not yet been registered with
-            Windows OS. To get past the SmartScreen filter, click on the
-            "*More info"* link.
-            
-            ![](@site/static/img/More_Info.png)
-            
-        4.  Next, click the *Run anyway* button and the setup will
-            launch.
-            
-            ![](@site/static/img/Run_Anyway.png)
-            
-    2.  macOS Instructions.
-        1.  Download the binary for macOS and for your CPU architecture:
-            [x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-x64.zip)
-            or
-            [arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-arm64.zip),
-            which you can check on the "About This Mac" page. The Intel
-            version (x64) will work on Apple Silicon devices (arm64) as
-            well.
-        2.  Open the Finder, head to Downloads, and double click on the
-            file to unzip the application.
-            
-            ![](@site/static/img/Unzip_proxxy.png)
-            
-        3.  Now that you have the Proxxy application unzipped, you can
-            drag it to the *Applications* folder on the left side of the
-            finder.
-            
-            ![](@site/static/img/Proxxy_to_applications_folder.png)
-            
-        4.  Go to the *Applications* folder, find the *Proxxy* app in
-            the application list, and double click to open.
-            
-            ![](@site/static/img/Proxxy_in_applications.png)
-            
-        5.  A warning will appear saying that the developer cannot be
-            verified. Click the *OK b*utton. This warning might look
-            different on older macOS versions, which could have a
-            *Cancel* button. If so, press that button instead.
-            ![](@site/static/img/Proxxy_warning.png "Proxxy_warning.png")
-        6.  Next, click on the Apple icon in the top left corner of your
-            screen in the menu bar. In the drop-down menu, select System
-            *Preferences…*.
-            ![](@site/static/img/Open_System_Preferences_from_Apple_Menu.png "Open_System_Preferences_from_Apple_Menu.png")If
-            your machine is running macOS Ventura (version 13 and up),
-            you should select "System Settings..."
-            instead.![](@site/static/img/System_settings.png)
-        7.  The System Preferences window will show up. Click on
-            *Security & Privacy*.
-            ![](@site/static/img/Security_&_Privacy_in_System_Preferences.png)If
-            your machine is running macOS Ventura (version 13 and up),
-            the menu is now called "Privacy &
-            Security"![](@site/static/img/Macos_PrivacyAndSecurity.png)
-        8.  Scroll down on the settings until you find a prompt where it
-            says *"Proxxy" was blocked…*, click the *Open Anyway*
-            button.
-            
-            ![](@site/static/img/Open_anyway.png)
-            
-        9.  You might be prompted to insert your password or use TouchID
-            in order to confirm this action.
-            
-            ![](@site/static/img/Touchid_confirm.png)
-            
-        10. In the window that opens, click the *Open* button and the
-            Proxxy app will launch.
-            ![](@site/static/img/Open_proxxy.png)
-        11. When launching the app for the first time after unblocking
-            it in the Security settings in some machines, it will stay
-            black and not load. If this happens, close the app and open
-            it again. It should now work.
-    3.  Linux instructions.
-        1.  Download the file, according to your CPU architecture:
-            [x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-x64)
-            or
-            [arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-arm64)
-        2.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
-            etc.).
-        3.  Browse to the location of the file.
-        4.  Right click the file and select "Properties".
-        5.  A window will appear, (Example of Gnome/Files shown below)
-            select the "Permissions" tab, check the "Execute: Allow
-            executing file as program" box and close the window.
-            ![](@site/static/img/linux+x.png)
-        6.  You can now launch the *Proxxy* application by
-            double-clicking the file right from the file manager.
+    
+###  Windows Instructions.
+1.  Download the Proxxy file for Windows
+[here](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-win-x64.exe).
+2.  In the file browser, navigate to the folder where the
+application was downloaded to and double-click the file.
+![](@site/static/img/Downloaded_Proxxy_Exe_file.png)
+
+3.  You may get a notice saying "Windows protected your PC"
+preventing you from running the program. This is common with
+newer applications that have not yet been registered with
+Windows OS. To get past the SmartScreen filter, click on the
+"*More info"* link.      
+![](@site/static/img/More_Info.png)
+
+4.  Next, click the *Run anyway* button and the setup will
+launch.
+![](@site/static/img/Run_Anyway.png)
+
+### macOS Instructions.
+1.  Download the binary for macOS and for your CPU architecture:
+[x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-x64.zip)
+or
+[arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-mac-arm64.zip),
+which you can check on the "About This Mac" page. The Intel
+version (x64) will work on Apple Silicon devices (arm64) as
+well.
+2.  Open the Finder, head to Downloads, and double click on the
+file to unzip the application.
+
+![](@site/static/img/Unzip_proxxy.png)
+
+3.  Now that you have the Proxxy application unzipped, you can
+drag it to the *Applications* folder on the left side of the
+finder.
+
+![](@site/static/img/Proxxy_to_applications_folder.png)
+
+4.  Go to the *Applications* folder, find the *Proxxy* app in
+the application list, and double click to open.
+
+![](@site/static/img/Proxxy_in_applications.png)
+
+5.  A warning will appear saying that the developer cannot be
+verified. Click the *OK b*utton. This warning might look
+different on older macOS versions, which could have a
+*Cancel* button. If so, press that button instead.
+![](@site/static/img/Proxxy_warning.png)
+6.  Next, click on the Apple icon in the top left corner of your
+screen in the menu bar. In the drop-down menu, select System
+*Preferences…*.
+![](@site/static/img/Open_System_Preferences_from_Apple_Menu.png)If
+your machine is running macOS Ventura (version 13 and up),
+you should select "System Settings..."
+instead.![](@site/static/img/System_settings.png)
+7.  The System Preferences window will show up. Click on
+*Security & Privacy*.
+![](@site/static/img/Security_&_Privacy_in_System_Preferences.png)If
+your machine is running macOS Ventura (version 13 and up),
+the menu is now called "Privacy &
+Security"![](@site/static/img/Macos_PrivacyAndSecurity.png)
+8.  Scroll down on the settings until you find a prompt where it
+says *"Proxxy" was blocked…*, click the *Open Anyway*
+button.
+
+![](@site/static/img/Open_anyway.png)
+
+9.  You might be prompted to insert your password or use TouchID
+in order to confirm this action.
+
+![](@site/static/img/Touchid_confirm.png)
+
+10. In the window that opens, click the *Open* button and the
+Proxxy app will launch.
+![](@site/static/img/Open_proxxy.png)
+11. When launching the app for the first time after unblocking
+it in the Security settings in some machines, it will stay
+black and not load. If this happens, close the app and open
+it again. It should now work.
+### Linux instructions.
+1.  Download the file, according to your CPU architecture:
+[x64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-x64)
+or
+[arm64](https://nx38767.your-storageshare.de/s/wYsHnZZKZqMZXxW/download?path=%2F&files=Proxxy-linux-arm64)
+2.  Open the defualt file manager (Ex. Gnome/Files, KDE/Dolphin,
+etc.).
+3.  Browse to the location of the file.
+4.  Right click the file and select "Properties".
+5.  A window will appear, (Example of Gnome/Files shown below)
+select the "Permissions" tab, check the "Execute: Allow
+executing file as program" box and close the window.
+![](@site/static/img/linux+x.png)
+6.  You can now launch the *Proxxy* application by
+double-clicking the file right from the file manager.
+
 3.  After the App launches, head back to the Proxxy
     [webpage](https://proxxy.xx.network) and follow the rest of the
     instructions.

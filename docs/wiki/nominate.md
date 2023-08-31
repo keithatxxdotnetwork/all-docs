@@ -1,3 +1,5 @@
+# Nominating Validators
+
 To nominate a Node in the xx network, you will be required to first bond
 the coins you wish to stake. While bonded, these coins will not be
 transferable but may be used for staking and governance. Staking and
@@ -41,26 +43,26 @@ into the network.
 1.  In the navigation menu, go to *Network* and in the drop-down menu,
     click on *Staking*. Or navigate to
     <https://wallet.xx.network/#/staking>.
-    ![](@site/static/img/Explorer_-_Staking_Nav.png "Explorer_-_Staking_Nav.png")
+    ![](@site/static/img/Explorer_-_Staking_Nav.png)
 2.  The Staking Overview page will open.
     1.  Click on *Account actions* in the submenu.
     2.  Then click the *stash* button
         ![](@site/static/img/Explorer_Stash_button.svg).
 
-    ![](@site/static/img/Explorer_-_Account_Actions,_Add_Stash.png "Explorer_-_Account_Actions,_Add_Stash.png")
+    ![](@site/static/img/Explorer_-_Account_Actions,_Add_Stash.png)
 3.  The *bonding preferences* window will open.
     1.  Select the account to use. It should be the same account for
         stash and controller accounts.
     2.  Enter the amount you wish to bond
     3.  Once you have confirmed everything, click the *Bond* button.
 
-    ![](@site/static/img/Explorer_-_Add_Stash,_Bonding_Preferences.png "Explorer_-_Add_Stash,_Bonding_Preferences.png")
+    ![](@site/static/img/Explorer_-_Add_Stash,_Bonding_Preferences.png)
 4.  On the next page, authorize your transaction by entering your
     password and clicking the *Sign and Submit* button
     ![](@site/static/img/Explorer_Sign_and_Submit_button.svg).
-    ![](@site/static/img/Explorer_-_Authorize_Transaction_(Bond_Tokens_for_Stash).png "Explorer_-_Authorize_Transaction_(Bond_Tokens_for_Stash).png")
+    ![](@site/static/img/Explorer_-_Authorize_Transaction_(Bond_Tokens_for_Stash).png)
 
-![](@site/static/img/Stashing_xx_coins.gif "Stashing_xx_coins.gif")
+![](@site/static/img/Stashing_xx_coins.gif)
 
 ## Selecting Nodes to Nominate
 
@@ -79,10 +81,10 @@ the right nodes to nominate.
 1.  In the navigation menu, go to *Network* and in the drop-down menu,
     click on *Staking*. Or navigate to
     <https://wallet.xx.network/#/staking>.
-    ![](@site/static/img/Explorer_-_Staking_Nav.png "Explorer_-_Staking_Nav.png")
+    ![](@site/static/img/Explorer_-_Staking_Nav.png)
 2.  The Staking Overview page will open. Click on *Targets* in the
     submenu.
-    ![](@site/static/img/Explorer_-_Targets_Submenu_Nav.png "Explorer_-_Targets_Submenu_Nav.png")
+    ![](@site/static/img/Explorer_-_Targets_Submenu_Nav.png)
 
 From here, you can see all the available nodes you can nominate. A
 detailed walkthrough of choosing the best nodes to stake is outside the
@@ -100,7 +102,7 @@ the nodes that you want to nominate.
     compensation for running the node and all of its earnings will be
     split amongst its stakers.
 
-    ![](@site/static/img/Commission_column.png "Commission_column.png")
+    ![](@site/static/img/Commission_column.png)
 2.  **Verify how many people are already nominating a node.**
     
     The rewards that a node earns are split evenly based on stake (after
@@ -127,15 +129,15 @@ the nodes that you want to nominate.
     1.  Click on the *cmix id* for a node to open its page on the [xx
         network dashboard](https://dashboard.xx.network/) in a new
         tab/window.
-        ![](@site/static/img/Explorer_-_Targets,_cmix_id_link.png "Explorer_-_Targets,_cmix_id_link.png")
+        ![](@site/static/img/Explorer_-_Targets,_cmix_id_link.png)
     2.  Look at the *Uptime* and *Round Success Rate* graphs and confirm
         that they are acceptable.
-        ![](@site/static/img/Dashboard_-_Uptime_and_Round_Success_Rate_Graphs.png "Dashboard_-_Uptime_and_Round_Success_Rate_Graphs.png")
+        ![](@site/static/img/Dashboard_-_Uptime_and_Round_Success_Rate_Graphs.png)
     3.  Return to the explorer tab/window and click on the *stats* icon
         ![](@site/static/img/Explorer_-_Stats_Icon.svg) next to the node.
-        ![](@site/static/img/Explorer_-_Targets,_Stats_icon_link.png "Explorer_-_Targets,_Stats_icon_link.png")
+        ![](@site/static/img/Explorer_-_Targets,_Stats_icon_link.png)
     4.  On this page, you can see how consistent the node has been.
-        ![](@site/static/img/Explorer_-_Validator_stats.png "Explorer_-_Validator_stats.png")
+        ![](@site/static/img/Explorer_-_Validator_stats.png)
 
     ![](@site/static/img/Node_performance_gif.gif)
 
@@ -144,51 +146,36 @@ the nodes that you want to nominate.
 
 1.  Click on *Targets* in the submenu to return to the list of nodes.
 
-![](@site/static/img/Explorer_-_Targets_Submenu_Nav.png "Explorer_-_Targets_Submenu_Nav.png")
-
-<li>
+![](@site/static/img/Explorer_-_Targets_Submenu_Nav.png)
 
 To select a node, use the toggle box on the far right. You can toggle
 the ones you like (up to 16).
 
-![](@site/static/img/Explorer_-_Targets,_Nominate_Checkbox.png "Explorer_-_Targets,_Nominate_Checkbox.png")
-
-</li>
-<li>
+![](@site/static/img/Explorer_-_Targets,_Nominate_Checkbox.png)
 
 Once you have selected all the nodes you want to nominate, click on the
 *Nominate selected* button
 ![](@site/static/img/Explorer_Nominate_selected_button.svg) on the top
 right.
 
-![](@site/static/img/Explorer_-_Targets,_Nominate_selected.png "Explorer_-_Targets,_Nominate_selected.png")
-
-</li>
-<li>
+![](@site/static/img/Explorer_-_Targets,_Nominate_selected.png)
 
 The *nominate validators* window will open.
-
-</li>
 
 1.  Make sure that you select the correct account to nominate with.
 2.  The validators you selected to nominate.
 3.  Once you are ready to nominate, click the *Nominate* button
     ![](@site/static/img/Explorer_Nominate_button.svg).
 
-![](@site/static/img/Explorer_-_Nominate_validators_windows.png "Explorer_-_Nominate_validators_windows.png")
-
-<li>
+![](@site/static/img/Explorer_-_Nominate_validators_windows.png)
 
 On the next page, authorize your transaction by entering your password
 and clicking the *Sign and Submit* button
 ![](@site/static/img/Explorer_Sign_and_Submit_button.svg).
 
-![](@site/static/img/Explorer_-_Authorize_Transaction_(Nominating).png "Explorer_-_Authorize_Transaction_(Nominating).png")
+![](@site/static/img/Explorer_-_Authorize_Transaction_(Nominating).png)
 
-</li>
-
-
-![](@site/static/img/Nominate_from_targets_gif.gif "Nominate_from_targets_gif.gif")
+![](@site/static/img/Nominate_from_targets_gif.gif)
 
 ## Wait For Next Election for Your Nomination to be Applied
 
@@ -200,34 +187,26 @@ which occurs at the end of every era.
     click on *Staking*. Or navigate to
     <https://wallet.xx.network/#/staking>.
 
-![](@site/static/img/Explorer_-_Staking_Nav.png "Explorer_-_Staking_Nav.png")
-
-<li>
+![](@site/static/img/Explorer_-_Staking_Nav.png)
 
 The Staking Overview page will open. Click on *Account actions* in the
 submenu.
 
-![](@site/static/img/Explorer_-_Account_Actions_Nav.png "Explorer_-_Account_Actions_Nav.png")
-
-</li>
-<li>
+![](@site/static/img/Explorer_-_Account_Actions_Nav.png)
 
 On the *Account actions* page, you can see all your bonded wallets along
 with information on whether there are *active* or *waiting* nominations
 on them.
-
-</li>
-
 
 To see when the next era begins:
 
 1.  In the navigation menu, go to *Network* and in the drop-down menu,
     click on *Staking*. Or navigate to
     <https://wallet.xx.network/#/staking>.
-    ![](@site/static/img/Explorer_-_Staking_Nav.png "Explorer_-_Staking_Nav.png")
+    ![](@site/static/img/Explorer_-_Staking_Nav.png)
 2.  The length of each era and the time until the next era are viewable
     in the top right.
-    ![](@site/static/img/Era_Timer.png "Era_Timer.png")
+    ![](@site/static/img/Era_Timer.png)
 
 ## Claim Rewards
 
@@ -251,20 +230,17 @@ do not see any payouts, it is likely another staker already claimed the
 payout for you and the coins are already in your stash wallet. All
 payouts are automatically rebonded into the stash account that earned
 them.
-
-<figure>
 ![](@site/static/img/Payouts_tab.png)
-</figure>
 
 ### Instructions
 
 1.  In the navigation menu, go to *Network* and in the drop-down menu,
     click on *Staking*. Or navigate to
     <https://wallet.xx.network/#/staking>.
-    ![](@site/static/img/Explorer_-_Staking_Nav.png "Explorer_-_Staking_Nav.png")
+    ![](@site/static/img/Explorer_-_Staking_Nav.png)
 2.  The Staking Overview page will open. Click on *Payouts* in the
     submenu.
-    ![](@site/static/img/Explorer_-_Payouts_Nav.png "Explorer_-_Payouts_Nav.png")
+    ![](@site/static/img/Explorer_-_Payouts_Nav.png)
 3.  To select a single payout, click the *Payout* button next to the
     selected payout. To receive all payouts at once, click the *Payout
     all* button in the top right.

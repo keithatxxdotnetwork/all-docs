@@ -20,11 +20,11 @@ decentralize this service onto the xx network blockchain.
 
 ## User Registration
 
-During the xx messenger app installation process, users select a unique
+During the xx Messenger app installation process, users select a unique
 username that is registered in UD. This registration is completed
 securely via
 [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) rather
-than [cMix](What_is_cMix? "wikilink").
+than [cMix](../overview/cmix).
 
 After registering their username, xx messenger generates cryptographic
 information that will be used to identify the user uniquely. This
@@ -64,15 +64,13 @@ xx messenger allows users to easily find their connections by searching
 for their username, email, or phone number. When a user fills in search
 criteria, xx messenger first salts and hashes the data and then sends it
 over the [anonymous data retrieval
-protocol](Anonymous_Data_Retrieval_Protocol "wikilink"), which utilizes
-[cMix](What_is_cMix? "wikilink") and a unique, on-the-fly negotiation
+protocol](adrp), which utilizes [cMix](../overview/cmix) and a unique, on-the-fly negotiation
 format request to search for the user without ever revealing who is
 searching or who is being searched. When received, the User Discovery
 server searches for the salted hash in its database. If a match is
 found, the relevant user’s cryptographic data is returned, allowing the
 requesting user to form an
-[end-to-end](End-to-End_Encrypted_Messaging_in_xx_Messenger "wikilink")
-relationship.
+[end-to-end](e2e-xxm) relationship.
 
 ## Deletion
 

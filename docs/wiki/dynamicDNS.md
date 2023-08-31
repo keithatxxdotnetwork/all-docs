@@ -1,3 +1,5 @@
+# Dynamic DNS (DDNS)
+
 Dynamic DNS (DDNS) is a system that automatically updates DNS records
 when an IP address changes. It allows you to connect to a server using a
 domain name without worrying that its dynamic IP address may change.
@@ -19,57 +21,84 @@ If your Node or Gateway has a static IP address, then there is no need
 to use dynamic DNS. However, you are still welcome to use a domain name
 by following the instructions below.
 
-## Setting the Domain Name on cMix Node
+## Setting the Domain Name on Node Computer
 
-To use DDNS on the Node, you must enable on the Node and update the on
+To use DDNS on the Node, you must enable `overridePublicIP` on the Node and update the `cmixAddress` on
 the Gateway with the Node's domain name.
 
-### Update the Node
+### Update the `cmix.yaml` file
 
 Follow the instructions below on the Node machine.
 
 1.  Open up the cMix configuration file.
-2.  Use the down key to navigate to the line with (it will be under \> )
-    and uncomment it by deleting the prepending the line. Replace the
-    placeholder IP address with the domain name for your cMix Node.
-<ol>
-<li>
+```
+$ nano /opt/xxnetwork/config/cmix.yaml
+```
+2.  Find the line that cotains `#overridePublicIP`. Remove the leading `#` and replace the 
+placeholder IP address with the domain name for your cMix Node.
 
-Once the change is made, save the file by pressing , and when prompted
-to save the buffer, press . Finally, when prompted with the file name,
-press .
+```
+  # The public IPv4 address of the Node, as reported to the network. When not
+  # set, external IP address lookup services are used to set this value. If a
+  # port is not included, then the port from the port flag is used instead.
+  # WARNING: Do not modify this option unless explicitly required.
+  overridePublicIP: "yourdomain.com"
+```
 
-</li>
-<li>
+3. Save the file and exit *nano* by pressing `Ctrl + s`, then `Ctrl +x`
 
-To activate the change, restart the cMix service.
+4. To activate the change, restart the cMix service.
+```
+$ sudo systemctl restart xxnetwork-cmix
+```
 
-</li>
-</ol>
-
-### Update the Gateway
+### Update the `gateway.yaml` file
 
 Follow the instructions below on the Gateway machine.
 
 1.  Open up the Gateway configuration file.
-2.  Use the down key to navigate to the line with and replace the IP
+```
+$ nano /opt/xxnetwork/config/gateway.yaml
+```
+2.  Use the down key to navigate to the line with `cmixAddress:` and replace the IP
     address with the domain name and port for your cMix Node.
-3.  Once the change is made, save the file by pressing , and when
-    prompted to save the buffer, press . Finally, when prompted with the
-    file name, press .
-4.  To activate the change, restart the cMix service.
+```
+# The IP address of the machine running cMix that the Gateway communicates with.
+# Expects an IPv4 address with a port. (Required)
+cmixAddress: "yourdomain.com:11420"
+```
+3. Save the file and exit *nano* by pressing `Ctrl + s`, then `Ctrl +x`
 
-## Setting the Domain Name on cMix Gateway
+4. To activate the change, restart the Gateway service.
+```
+$ sudo systemctl restart xxnetwork-gateway
+```
 
-To use DDNS on the Gateway, you must enable overridePublicIP and
+## Setting the Domain Name on Gateway Computer
+
+### Update the `gateway.yaml` file
+
+To use DDNS on the Gateway, you must enable `overridePublicIP` and
 configure it with the Gateway's domain name.
 
 1.  Open up the Gateway configuration file.
-2.  Use the down key to navigate to the line with (it should be at the
-    bottom) and uncomment it by deleting the prepending the line. Then
-    replace the placeholder IP address with the domain name for your
-    cMix Gateway.
-3.  Once the change is made, save the file by pressing , and when
-    prompted to save the buffer, press . Finally, when prompted with the
-    file name, press .
-4.  To activate the change, restart the cMix service.
+```
+$ nano /opt/xxnetwork/config/gateway.yaml
+```
+2.  Find the line that cotains `#overridePublicIP`. Remove the leading `#` and replace the 
+placeholder IP address with the domain name for your cMix Node.
+
+```
+  # The public IPv4 address of the Node, as reported to the network. When not
+  # set, external IP address lookup services are used to set this value. If a
+  # port is not included, then the port from the port flag is used instead.
+  # WARNING: Do not modify this option unless explicitly required.
+  overridePublicIP: "yourdomain.com"
+```
+
+3. Save the file and exit *nano* by pressing `Ctrl + s`, then `Ctrl +x`
+
+4. To activate the change, restart the Gateway service.
+```
+$ sudo systemctl restart xxnetwork-gateway
+```

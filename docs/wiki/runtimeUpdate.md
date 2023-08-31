@@ -1,20 +1,18 @@
-This wiki page describes how to perform a runtime update (code change)
-in the xx network blockchain.
+# Runtime Update Tutorial
+This page describes how to perform a runtime update (code change)
+in the xx Network blockchain.
 
 ## Versioning
 
-xxchain version follows the standard Semantic versioning of
-v\[major\].\[minor\].\[patch\]
+xx Chain version follows the standard Semantic versioning of
+`v[major].[minor].[patch]`
 
-Runtime versioning stays inline with the xxchain version, using a 6
+Runtime versioning stays inline with the xx Chain version, using a 6
 digit string.
 
 For example:
 
 -   v0.2.0 -> runtime 00 02 00 = 200
-
-<!-- -->
-
 -   v0.2.3 -> runtime 00 02 03 = 203
 -   v1.0.0 -> runtime 01 00 00 = 10000
 -   v1.1.0 -> runtime 01 01 00 = 10100
@@ -34,8 +32,8 @@ Steps:
         \[spec_name\]-runtime-\[spec_version\]
     -   Make sure the spec version is correctly increased for the
         runtime
-        -   Example: current runtime spec version is 202, new version
-            needs to be 203 at least, for the upgrade to be performed
+        -   Example: current runtime spec version is 202, so the new version
+            needs to be at least 203 for the upgrade to be performed
     -   Make sure Cargo.toml versions are also increased for the cli and
         runtime packages. Also, any packages that import the runtime
         should be updated to import the new version
@@ -55,7 +53,10 @@ Steps:
 
 1.  In the wallet go to the
     [Democracy](https://wallet.xx.network/#/democracy)
-2.  Click the “Submit proposal” button![](@site/static/img/Screen_Shot_2022-04-26_at_2.06.27_PM.png)
+2.  Click the “Submit proposal” button
+
+![](@site/static/img/Screen_Shot_2022-04-26_at_2.06.27_PM.png)
+
 3.  Fill in the preimage hash with the system.setCode hash from the
     previous steps![](@site/static/img/Screen_Shot_2022-04-26_at_2.07.48_PM.png)
 4.  Click "Submit proposal" and then on the next screen sign and submit
@@ -112,12 +113,15 @@ Steps:
     after the referendum has been approved![](@site/static/img/Screen_Shot_2022-04-26_at_2.20.37_PM.png)
 6.  Click the “Submit preimage” button
 7.  Review the information
-    1.  NOTE: since the code change is a large file, the transaction
+:::note
+Since the code change is a large file, the transaction
         fees shown could be close to 100 xx. However, since this
         referendum is imminent, the fee is refunded at the end of the
         transaction processing. Still, the funds still need to be
         available in the account to be able to submit the transaction
-        ![](@site/static/img/Screen_Shot_2022-04-26_at_2.20.49_PM.png)
+:::
+
+![](@site/static/img/Screen_Shot_2022-04-26_at_2.20.49_PM.png)
 8.  Sign and submit the transaction
 9.  When the transaction is in a block it’s possible to see the
     transaction fee being Withdraw and then Deposited back into the

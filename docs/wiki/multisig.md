@@ -1,5 +1,7 @@
+# Multisig Accounts
+
 You can use a multisig account to add extra security layers from a
-standard wallet. The main purpose is to require multiple signatures to
+basic wallet. The main purpose is to require multiple signatures to
 authorize a transaction or any change.
 
 ## Overview to use a multisig account
@@ -31,11 +33,11 @@ your multisig account is lost forever.
 ## Generate
 
 Once you have your wallets set up, you need to generate a multisig
-account by clicking "Multisig" button ![](@site/static/img/Account.jpg "Account.jpg")
+account by clicking "Multisig" button ![](@site/static/img/Account.jpg)
 
 Select all accounts to create a multisig account and choose the
 threshold number here 2 (threshold) of 3 wallets (selected signatories).
-![](@site/static/img/Addmultisig.jpg "Addmultisig.jpg")
+![](@site/static/img/Addmultisig.jpg)
 
 ## Export
 
@@ -50,7 +52,7 @@ to get your multisig account from wallet.xx.network :
     only two accounts and the multisig account for signing transactions
     if you choose 2 (threshold) of 3 (selected signatories) so you can
     keep safe your last account safe on cold
-    storage.![](@site/static/img/Export.png "Export.png")
+    storage.![](@site/static/img/Export.png)
 
 ## Using multisig for validate
 
@@ -75,13 +77,13 @@ You now have two options to confirm all the necessary accounts :
 1\. Go to the "Accounts" tab and you should have a red mark on the left
 side of your multisig because you need more accounts to sign the
 transaction until you reach the threshold number for the final approval
-![](@site/static/img/Multisig.png "Multisig.png")
-![](@site/static/img/MultiSigApprovalo.png "MultiSigApprovalo.png")
+![](@site/static/img/Multisig.png)
+![](@site/static/img/MultiSigApprovalo.png)
 
 2\. Perform the same actions with the same parameters and you will
 arrive at this window until your reach the threshold number "Existing
 approvals (1/3)"
-![](@site/static/img/MultisigApprovalConfirmation.png "MultisigApprovalConfirmation.png")
+![](@site/static/img/MultisigApprovalConfirmation.png)
 For the final approval your have also two choices :
 
 1.  You have copied the "multisig call data" and by clicking on
@@ -90,22 +92,9 @@ For the final approval your have also two choices :
     first approval. The "Multisig message with call (for final
     approval)" ticks itself.
 
-![](@site/static/img/MultisigApprovalConfirmationFINAL.png "MultisigApprovalConfirmationFINAL.png")
+![](@site/static/img/MultisigApprovalConfirmationFINAL.png)
 2. You haven't kept "multisig call data" and you have to do exactly the
 same transaction with the same parameters. "Multisig message with call
 (for final apporval) is triggered by itself when your reach the
 threshold number of signatures.
-![](@site/static/img/ValidatorFINAL.png "ValidatorFINAL.png")
-
-## End
-
-That's it, you know everything you need to create a Multisig account and
-make any kind of transactions.
-
-The choice "unlock for 15 min" allows you to keep the account unlocked
-without having to type this account password every time. You will
-appreciate this option when you are using a multisig account and have a
-threshold like 3 of 4 and enter all the time these passwords when you
-need to do multiple actions on wallet.xx.network.
-
-Good luck !
+![](@site/static/img/ValidatorFINAL.png)

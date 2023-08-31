@@ -1,3 +1,5 @@
+# ID Collisions and Notifications
+
 Typically, user IDs are unique identifiers and have the property of
 being matched to one user. This allows the users to be strongly
 identified, based upon an ID alone, making it easy to tell which user is
@@ -23,7 +25,7 @@ to allocate at any given time roughly half as many IDs as the number of
 users in the network. This ensures that users will be receiving messages
 meant for other users to guarantee further privacy. However, due to
 [end-to-end
-encryption](End-to-End_Encrypted_Messaging_in_xx_Messenger "wikilink"),
+encryption](e2e-xxm),
 users cannot read these messages or access any data about the sender or
 recipient.
 

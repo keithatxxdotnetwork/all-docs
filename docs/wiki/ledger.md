@@ -1,19 +1,22 @@
+
+# Ledger
+
 ## Introduction
 
 Hardware wallets like [Ledger](https://www.ledger.com/) are considered
 some of the most secure ways to store and use cryptocurrencies as they
 keep your private keys off of online devices that could be compromised
-by malware or mismanagement. This wiki page will walk you through the
-process of setting up a Ledger device to use with the xx network. Please
+by malware or mismanagement. This page will walk you through the
+process of setting up a Ledger device to use with the xx Network. Please
 keep in mind that even if you are familiar with using Ledger devices,
-there are some unique key generation steps when creating xx network
+there are some unique key generation steps when creating xx Network
 wallets due to the quantum-ready signature scheme that has been
 developed to address the looming threat of quantum computing on
 cryptocurrency wallets.
 
 ## Functionality (Light vs XL versions)
 
-There are two options available when downloading the xx network app onto
+There are two options available when downloading the xx Network app onto
 your Ledger device: a “light” version and an “XL” version. The
 difference between them is simply the amount of functionality they
 support and the amount of space they take up on your Ledger device.
@@ -21,7 +24,7 @@ support and the amount of space they take up on your Ledger device.
 #### XL Version
 
 The XL version is capable of signing almost every type of transaction
-available in the xx network [wallet](https://wallet.xx.network/) with
+available in the xx Network [Web Wallet](https://wallet.xx.network/) with
 the primary exceptions being Democracy transactions (you can use a
 governance proxy if you’d like to secure your wallets with a Ledger but
 still participate in voting). If you are running a validator (node) then
@@ -44,42 +47,28 @@ at the bottom of the Github
 
 ## Account Generation
 
-xx network wallets can be created using the novel
-[Sleeve](https://github.com/xx-labs/sleeve) wallet generation mechanism.
+xx Network wallets can be created using the novel
+Sleeve Wallet Generation tool wich is available on the [Sleeve](https://sleeve.xx.network/) website and the [Web Wallet](https://wallet.xx.network/#/accounts/generate).
 
 Sleeve allows a quantum-secure wallet to be embedded into the creation
-of a standard non quantum-secure wallet.
-
-The quantum-secure wallet will be used in the future, once xx network
+of a standard non quantum-secure wallet. The quantum-secure wallet will be used in the future, once xx Network
 adopts quantum-secure cryptography, but for the time being, the standard
-wallet is in use.
-
-Any standard wallet created using Sleeve will be upgradable to their
+wallet is in use. Any standard wallet created using Sleeve will be upgradable to their
 respective quantum-secure wallet.
 
 #### (Optional) Create a Sleeve wallet
 
-Even after adoption of quantum-secure cryptography, xx network will
-continue to support non quantum-secure wallets.
-
-This means that creating a wallet using Sleeve is recommended, but not
-mandatory.
-
-If you decide to use Sleeve to create your xx wallet, you won't be
+Even after adoption of quantum-secure cryptography, xx Network will
+continue to support non quantum-secure wallets. This means that creating a wallet using Sleeve is recommended, but not
+mandatory. If you decide to use Sleeve to create your xx Netqork wallet, you won't be
 generating your account directly on the Ledger device.
 
 Instead, you should use our offline wallet generation tool to create
-both a standard and quantum secure recovery phrase.
-
-You will then use the standard recovery phrase to initialize your Ledger
-device.
-
-The offline wallet generator tool will securely generate two recovery
+both a standard and quantum secure recovery phrase.You will then use the standard recovery phrase to initialize your Ledger
+device. The offline wallet generator tool will securely generate two recovery
 phrases: a standard recovery phrase and a quantum secure recovery
-phrase.
-
-Refer to [Using the Wallet
-Generator](Using_the_Wallet_Generator "wikilink") for a walkthrough of
+phrase. Refer to [Using the Wallet
+Generator](../tools/webwallet/accounts/generateAccount) for a walkthrough of
 the steps needed to download and install the wallet generator tool.
 
 Once you’ve generated your recovery phrases, make sure to keep them
@@ -90,7 +79,7 @@ give complete access to your wallet.
 
 #### Download Ledger Live
 
-Go to the Ledger [website](https://www.ledger.com/start) and download
+Go to the Ledger [website](https://www.ledger.com/ledger-live/) and download
 and install the Ledger Live app.
 
 Once you’ve installed and opened Ledger Live, plug in your Ledger
@@ -98,48 +87,47 @@ device.
 
 #### (Optional) Setup your device with recovery phrase
 
-If you previously created an xx network wallet using Sleeve, follow this
+If you previously created an xx Network wallet using Sleeve, follow this
 instructions. Otherwise, skip to the next section.
 
-You will be using the restore function to setup the device as detailed
-on the Ledger support
-[website](https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-your-device-from-a-recovery-phrase?support=true).
+You will be using the [RESTORE YOUR LEDGER ACCOUNTS WITH YOUR RECOVERY PHRASE](https://support.ledger.com/hc/en-us/articles/4404382560913-Restore-your-device-from-a-recovery-phrase?support=true) process to setup the device as detailed
+on the Ledger support.
 
 During this process you will enter the standard recovery phrase (**NOT
 THE QUANTUM RECOVERY PHRASE**) directly into the Ledger device.
 
-#### Download the xx network Ledger app
+#### Download the xx Network Ledger app
 
 With your account successfully added to the Ledger device you will need
-to add the xx network app to your Ledger.
+to add the xx Network app to your Ledger.
 
 Make sure the Ledger is plugged in and unlocked and then open the Ledger
 Live app.
 
-Go to the "My Ledger" tab and search for the xx network app. Choose the
+Go to the "My Ledger" tab and search for the xx Network app. Choose the
 XL or light version according to your needs and click Install.
 
 ## Small note about Ledger accounts
 
-The xx network blockchain is developed using Substrate, which has its
+The xx Network blockchain is developed using Substrate, which has its
 own wallet derivation scheme using
 [substrate-bip39](https://github.com/paritytech/substrate-bip39). This
-scheme is used by both the xx wallet and the Wallet Generator app (which
+scheme is used by both the Web Wallet and the Wallet Generator app (which
 displays the generated wallet address in the last step).
 
 However, Ledger devices use the industry standard
 [bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki),
 which differs from the Substrate one. This means that the same
 **recovery phrase** will **NOT** result in the same wallet when setup on
-a Ledger device or the xx wallet. **Please keep this in mind when
+a Ledger device or the Web Wallet. **Please keep this in mind when
 proceeding in the next steps**.
 
 ## Using the Ledger Wallet
 
-#### Add Account to the xx wallet
+#### Add Account to the Web Wallet
 
 Now that you’ve set up your Ledger wallet, you’re ready to begin using
-it with the xx network wallet.
+it with the Web Wallet
 
 The first thing you need to do is add your Ledger Wallet account to the
 xx wallet. Note that this does not store your keys in the browser, they

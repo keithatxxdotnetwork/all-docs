@@ -1,4 +1,6 @@
-![](@site/static/img/Bins_WorldMap.png "Bins_WorldMap.png")
+# Geographic Bins
+
+![](@site/static/img/Bins_WorldMap.png)
 
 Sourced from Blog Posts on 14 Oct 2021[^1] and 1 Nov 2021[^2]
 
@@ -52,10 +54,8 @@ They were last set on 07/14/2022.
 
 ## How Geographic Multipliers are Calculated
 
-TODO, pull in from [^3]
+TODO, pull in from [^2]
 
-[^1]: B. Wenger
+[^1]: B. Wenger ["Geographic Bins in MainNet"](https://xx.network/blog/MainNetGeoBins)
 
-[^2]: B. Wenger, B. Cardoso, R. Carback
-
-[^3]: 
+[^2]: B. Wenger, B. Cardoso, R. Carback ["Testing Regional Multipliers for MainNet"](https://xx.network/blog/regionalMultipliers)

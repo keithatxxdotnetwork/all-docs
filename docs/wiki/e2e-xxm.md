@@ -1,8 +1,10 @@
+# End-to-End Encrypted Messaging in xx Messenger
+
 [End-to-End Encrypted
 (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging
 is a way to securely and privately communicate with connections—only the
 sender and receiver can read the contents of their messages. While
-[cMix](What_is_cMix "wikilink") protects your metadata (the who, what,
+[cMix](../overview/cmix) protects your metadata (the who, what,
 when, and where of your communications), the E2EE between clients on the
 xx network provides the additional guarantee that no third party can
 decipher data that is processed and stored. End-to-end encryption keeps
