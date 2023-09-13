@@ -10,8 +10,7 @@ handle functionality across Clients and Services, which contain data
 structures, interfaces, and cryptography common to many xx Network
 components. *Services* implement various messenger features, as well as
 authorizing Clients and Nodes to join the network. *Clients* interact
-with the network using a shared [Client API
-(xxDK)](Client_API_(xxDK) "wikilink"). *Tools* provide several
+with the network using a shared [Client API (xxDK)](../cmix/xxdk/overview.md). *Tools* provide several
 interfaces and utilities to deploy, test, and debug the network.
 
 Most of the Elixxir code found in the Core and Services is written in

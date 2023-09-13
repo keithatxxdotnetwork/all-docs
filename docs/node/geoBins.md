@@ -23,7 +23,7 @@ in a team. In other words, as nodes get closer, they complete cMix
 rounds faster. And as rounds are completed faster, the nodes in them
 earn points faster, resulting in more xx earned for operation (You can
 read more about the point system in the Era Rewards - Era Points section
-of the [xx tokenomics paper](xx_tokenomics_paper "wikilink")).
+of the [xx Economics White Paper](https://xx.network/wp-content/uploads/2021/12/xx-economics-v1.2.pdf)).
 
 This creates an economic incentive to centralize. To combat this, each
 bin will be assigned a "regional multiplier" which will multiply the

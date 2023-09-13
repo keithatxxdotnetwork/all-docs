@@ -2,8 +2,7 @@
 You can receive coins from someone by sending your wallet address to
 that person.
 
-First, you may want to [derive a new
-wallet](Add_an_Account_to_the_xx_wallet#Derivation_Paths "wikilink").
+First, you may want to [derive a new wallet](./addAccount.md#deriving-a-wallet).
 
 1.  In the navigation menu, go to *Accounts* and in the drop-down menu,
     click on *Accounts*. Or navigate to

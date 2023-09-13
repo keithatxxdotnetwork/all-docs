@@ -1,7 +1,7 @@
 # Proxxy
 
-Proxxy is a technology that leverages the xx network's
-[cMix](What_is_cMix? "wikilink") network to provide metadata protection
+Proxxy is a technology that leverages the xx Network's
+[cMix](../cmix/cmix.md) network to provide metadata protection
 to users of web3.
 
 With Proxxy, any wallet can integrate better privacy, in order to avoid
