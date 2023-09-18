@@ -17,33 +17,22 @@ function HomepageHeader() {
         <div className={styles.buttons}>
         <Link
             className="button button--secondary button--lg"
-            to="/docs/tools/explorer">
-            Chain Explorer
+            to="/docs/cmix">
+            xx cMix
           </Link>
           &nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="/docs/tools/dashboard">
-            cMix Dashboard
+            to="/docs/chain">
+            xx Chain
           </Link>
           &nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="/docs/tools/sleeve">
-            Sleeve Wallet Generator
+            to="/docs/node">
+            xx Node
           </Link>
           &nbsp;
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/tools/simpleStaking">
-            Simple Staking
-          </Link>
-          &nbsp;
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/tools/webWallet">
-            Web Wallet
-          </Link>
         </div>
       </div>
     </header>

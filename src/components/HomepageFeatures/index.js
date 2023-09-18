@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is xx Network?',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/xx_network.svg').default,
     description: (
       <>
         xx network is a secure and efficient decentralized ecosystem. It combines the xx Chain with the privacy-protecting xx cMix technology to power a full suite of cutting-edge tech. 
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'What is xx Chain?',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/xx_network.svg').default,
     description: (
       <>
         xx Chain is built on Substrate. xx Chain uses the most secure BFT approach offered by Substrate, which consists of BABE for block authoring and GRANDPA for block finality.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'What is xx cMix?',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/xx_network.svg').default,
     description: (
       <>
         xx cMix is the end-to-end encryption protocol. It uses a revolutionary metadata shredding technology that obscures the metadata shared when sending messages and transferring data.
