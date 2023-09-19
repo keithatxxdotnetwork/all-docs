@@ -10,7 +10,7 @@ When you first load the page you will notice the green icon indicating the brows
 Once disconnected, check the two acknowledgments and the "Generate New Wallet" function will be available. Click "Generate New Wallet"
 ![](@site/static/img/ww-gen-offline.png)
 ## Save Mnemonics
-On this page you will be presented with two sets of mnemonics, the "Quantum Mnemonic" and "Standard Mnemonic". Write these two down somewhere safe as they will be required to complete the wallet generation process and to add the account to wallet apps.
+On this page you will be presented with two sets of mnemonics, the "Quantum Mnemonic"[^1] and "Standard Mnemonic"[^2]. Write these two down somewhere safe as they will be required to complete the wallet generation process and to add the account to wallet apps.
 ![](@site/static/img/ww-gen-mnemonics.png)
 ## Confirm Quantum Mnemonics
 In this step you must input five randomly selected words from the Quantum Mnemonic. As an example you can see "Word #15" is one of the five required to be entered. Word 15 was artist. After typing in the 5 words correctly, press Next.
@@ -24,3 +24,7 @@ You will see a confirmation message that the Quantum and Standard Mnemonics were
 ## Public Address
 On this page you will see the public address of the generated wallet. At this step you can ["Add Wallet to Accounts"](./addAccount.md) of the Web Wallet or "Finish Setup".
 ![](@site/static/img/ww-gen-finished.png)
+
+[^1]: Quantum Mnemonic: derives the quantum-secure wallet, which is not currently used, but will be necessary in the future in order to rollover existing non quantum secure wallets into quantum secure wallets.
+
+[^2]: Standard Mnemonic: currently used to generate standard non quantum secure Wallets. This phrase can be generated from the quantum secure phrase, so keeping the first one safe will always be of utmost importance.
