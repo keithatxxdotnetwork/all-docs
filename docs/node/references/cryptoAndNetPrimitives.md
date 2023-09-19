@@ -52,8 +52,7 @@ downloads from public repositories.
 
 The following primitives are generated before and during the initial
 registration of the Node. More details about generation can be found in
-[Generate Identity
-Information](../node/node-configuration/generate-creds).
+[Generate Identity Information](../node-configuration/9-generate-creds.md).
 
 ### TLS Credentials
 

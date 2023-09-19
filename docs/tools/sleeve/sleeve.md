@@ -16,7 +16,7 @@ In this step you must input five randomly selected words from the Quantum Mnemon
 In this step you must input five randomly selected words from the Standard Mnemonic. As an example you can see "Word #6" is one of the five required to be entered. Word 6 was mercy. After typing in the 5 words correctly, press Next.
 ![](@site/static/img/sleeve-ver-stan.png)
 ## Finish Wallet Setup
-On this page you will see the public address of the generated wallet. At this step you can ["Add Wallet to Accounts"](./addAccount.md) of the Web Wallet using the "Standard Mnemonic" or export a JSON file which can be used to import the account into the Web Wallet.
+On this page you will see the public address of the generated wallet. At this step you can ["Add Wallet to Accounts"](../webWallet/accounts/addAccount.md) of the Web Wallet using the "Standard Mnemonic" or export a JSON file which can be used to import the account into the Web Wallet.
 ![](@site/static/img/sleeve-finish.png)
 ## Export JSON Account File
 To export the JSON file, enter stong password and press "EXPORT JSON ACCOUNT FILE" button. This file will be saved to local storage of the computer. The password you set here will be asked for if you import the account into the Web Wallet.

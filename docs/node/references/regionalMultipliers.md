@@ -64,7 +64,7 @@ They were last set on 6 April 2023.
 
 Geo Multipliers can be modified by governance via a general referendum
 or via 2/3rds of the council setting on-chain cMix values. You can read
-more about this on the [Governance](../chain/governance.md) page.
+more about this on the [Governance](../../chain/governance.md) page.
 
 ## Multipliers Math
 
@@ -176,6 +176,6 @@ $ python3 ./multiplier_calculator.py --wallet-country-supplement wcm_2col.csv --
 -   [Bin Simulation Calculations](https://git.xx.network/-/snippets/3)
     Python script
 -   [Testing Regional Multipliers for MainNet](https://xx.network/blog/regionalmultipliers/) blog post
--   [Large Democracy Proposal](../tools/webWallet/governance/largeDemocracyProposal.md)
+-   [Large Democracy Proposal](../../tools/webWallet/governance/largeDemocracyProposal.md)
     programmatically generate a preimage for Regional Multiplier
     proposals
