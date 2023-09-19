@@ -67,8 +67,7 @@ Instead, you should use our offline wallet generation tool to create
 both a standard and quantum secure recovery phrase.You will then use the standard recovery phrase to initialize your Ledger
 device. The offline wallet generator tool will securely generate two recovery
 phrases: a standard recovery phrase and a quantum secure recovery
-phrase. Refer to [Using the Wallet
-Generator](../tools/webwallet/accounts/generateAccount) for a walkthrough of
+phrase. Refer to [Using the Wallet Generator](./generateAccount.md) for a walkthrough of
 the steps needed to download and install the wallet generator tool.
 
 Once you’ve generated your recovery phrases, make sure to keep them

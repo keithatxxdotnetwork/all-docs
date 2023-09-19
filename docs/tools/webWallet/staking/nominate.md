@@ -29,7 +29,7 @@ caught within the 28-day unbonding period.
 ## Before Starting
 
 Before you can bond and nominate, log in to the [xx wallet](https://wallet.xx.network/) with your account. If you have not
-created a wallet or account, refer to [Using the Wallet Generator](Using_the_Wallet_Generator "wikilink") to get started with a
+created a wallet or account, refer to [Using the Wallet Generator](../accounts/generateAccount.md) to get started with a
 new wallet and [Add an Account to the xx wallet](../accounts/addAccount.md) to log in.
 
 ## Bond the Coins to be Staked

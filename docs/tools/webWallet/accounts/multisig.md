@@ -6,8 +6,7 @@ authorize a transaction or any change.
 
 ## Overview to use a multisig account
 
-1.  Create two or more accounts - [Using the Wallet
-    Generator](Using_the_Wallet_Generator "wikilink")
+1.  Create two or more accounts - [Using the Wallet Generator](./generateAccount.md)
 2.  Generate a multisig account from these accounts by specify the
     threshold
 3.  Send some xx coins on each account
