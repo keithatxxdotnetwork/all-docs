@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# 1. Set Session Keys
+# 4. Set Session Keys
 
 ```
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://localhost:9933 -o /opt/xxnetwork/cred/session-keys.json
