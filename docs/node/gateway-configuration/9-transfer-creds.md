@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # 9. Transfer TLS Credentials
 
-Three files that were genereated during the setup of the Node computer must be copied to the gateway computer, the Gateway credentials `gateway-cert.crt` and `gateway-key.key`, and the cMix public certificate, `cmix-cert.crt`.
+Three files that were generated during the setup of the Node computer must be copied to the gateway computer, the Gateway credentials `gateway-cert.crt` and `gateway-key.key`, and the cMix public certificate, `cmix-cert.crt`.
 
 The instructions below assume that you have SSH enabled and configured on your Gateway computer.
 

@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 # 2. Stash and Controller Accounts
-The Stash and Controller accounts can be the same account but it is recommeneded to use two as a way to reduce the risk of lost funds. It is recommended to use a Controller account to make changes to staking prefernces and doing payouts. 
+The Stash and Controller accounts can be the same account but it is recommended to use two as a way to reduce the risk of lost funds. It is recommended to use a Controller account to make changes to staking preferences and doing payouts. 
 ## Fund Stash and Controller Accounts
 ### Stash Account
-* Minumum Stake- 1,000 xx
-* Transferrable for fees - 25 xx
+* Minimum Stake- 1,000 xx
+* Transferable for fees - 25 xx
 * On-chain Identity (See below)- approx. 21 xx
 
 ### Controller Account
-* Transferrable for fees - 10 xx
+* Transferable for fees - 10 xx
 * On-chain Identity (See below)- approx. 21 xx
 
 # Set On-Chain Identity (Optional)

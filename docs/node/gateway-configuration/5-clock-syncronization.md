@@ -32,7 +32,7 @@ timedatectl list-timezones
 ```
 This will display a long list of 600+ time zones. For example, `Africa/Dakar`, `Asia/Seoul`, `Europe/Rome`, etc.
 
-In the example below I set `Time zose` to `Asia/Seoul`. The results will be shown in a later step.
+In the example below I set `Time zone` to `Asia/Seoul`. The results will be shown in a later step.
 ```jsx title="Copy and run ..."
 sudo timedatectl set-timezone [Ex. Asia/Seoul]
 ```

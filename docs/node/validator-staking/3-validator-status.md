@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # 3. Check `chain.log`
-To proceed you need to ensure the `xxnetwork-chain` process is running propoerly on the Node computer. This can be done by inspecting `/opt/xxnetwork/log/chain.log` on the Node computer with the following command.
+To proceed you need to ensure the `xxnetwork-chain` process is running properly on the Node computer. This can be done by inspecting `/opt/xxnetwork/log/chain.log` on the Node computer with the following command.
 ```bash
 fail -f /opt/xxnetwork/log/chain.log
 ```
