@@ -4,20 +4,20 @@ sidebar_position: 1
 
 # What is xx Network?
 
-xx Network is the secure and efficient decentralized ecosystem of the future. The network combines [xx Chain](chain.md) protocol with the privacy-protecting [xx cMix](cmix.md) technology to power a full suite of cutting-edge tech. The result is the first efficient online platform that allows you to quickly and securely communicate and exchange digital currencies on your smartphone without risking the safety of your metadata. While many messaging platforms are encrypted, no one protects your metadata the way we do. Read more about the xx Network in our designated whitepaper.
+xx Network is the secure and efficient decentralized ecosystem of the future. The network combines [xx Chain](chain.md) protocol with the privacy-protecting [cMixx](cmix.md) technology to power a full suite of cutting-edge tech. The result is the first efficient online platform that allows you to quickly and securely communicate and exchange digital currencies on your smartphone without risking the safety of your metadata. While many messaging platforms are encrypted, no one protects your metadata the way we do. Read more about the xx Network in our designated whitepaper.
 
 ## Current xx Network Architecture
-The MainNet is generally composed of three components: Nodes, Gateways, and clients. Within themselves, all three of these components handle two functions: interacting with cMix, the private communications layer, and the xx chain.
+The MainNet is generally composed of three components: Nodes, Gateways, and clients. Within themselves, all three of these components handle two functions: interacting with cMixx, the private communications layer, and the xx Chain.
 ![Current Network Structure](@site/static/img/Present_Network_Chart.png)
-* Nodes: The core operators of the network; they execute the cMix protocol and act as validators within the xx chain.
+* Nodes: The core operators of the network; they execute the cMixx protocol and act as validators within the xx Chain.
 * Gateways: The public-facing components of Nodes, one exists per Node. They store received messages, provide public access to data, and run a light node for public access.
-* Clients: Clients come in two versions, cMix clients and xx chain clients. cMix clients access the communications layer and can send and receive private communications. xx chain clients are currently limited to block explorers and other interactions with the blockchain.
+* Clients: Clients come in two versions, cMixx clients and xx Chain clients. cMixx clients access the communications layer and can send and receive private communications. xx Chain clients are currently limited to block explorers and other interactions with the blockchain.
 
 ## Full xx Network Decentralization
 In a future update, the scheduling server will be eliminated and replaced by an on-chain consensus operation which will work as follows:
 ![Future Network Structure](@site/static/img/Future_Network_Chart.png)
 * To be scheduled, a Node will submit a transaction to the network known as a waiting bid. Once accepted into a block, the Node will be written into the “waiting pool” for a maximum number of blocks.
-* The waiting pool will not be exhausted below 30% of the total number of online cMix Nodes (in the waiting pool + currently running rounds) to ensure proper mixing between Nodes in a team. Every block producer will use the block randomly to execute a fisher-yates shuffle on the waiting pool, selecting Nodes 1 through 5 as the first team, nodes 6 through 10 as the second team, etcetera until the waiting pool is exhausted.
+* The waiting pool will not be exhausted below 30% of the total number of online xx Nodes (in the waiting pool + currently running rounds) to ensure proper mixing between Nodes in a team. Every block producer will use the block randomly to execute a fisher-yates shuffle on the waiting pool, selecting Nodes 1 through 5 as the first team, nodes 6 through 10 as the second team, etcetera until the waiting pool is exhausted.
 * The teams will see their formation and work together to execute their precomputation. Once completed, they will select a time to execute their realtime based upon network congestion and generate a joint certificate on the round realtime start. This will be passed to the Gateways and gossiped throughout the Gateway network.
 * Clients, who are polling the Gateways, will see realtime certificates as well as the scheduling of the team within the block and select a round to submit messages to.
 * Once a realtime time has been reached, the nodes will begin the realtime, rapidly anonymizing the messages.

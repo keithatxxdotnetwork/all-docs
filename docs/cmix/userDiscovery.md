@@ -1,22 +1,22 @@
 # User Discovery
 
-User Discovery (UD) is an xx network service that helps users connect
+User Discovery (UD) is an xx Network service that helps users connect
 with others by searching via username, email, or phone number. When a
-user makes their xx messenger account, they create a username and have
+user makes their xx Messenger account, they create a username and have
 the option to include other identifiable information in their profile.
-Other xx messenger users can then use this information to search for
+Other xx Messenger users can then use this information to search for
 users in UD and start communicating.
 
 User Discovery links each piece of profile data with a user’s xx
-messenger contact, which is a cryptographically generated ID and a
+Messenger contact, which is a cryptographically generated ID and a
 public key. When a user searches in UD, the search results display the
-xx contact details needed to initiate end-to-end encrypted secure
+cMixx contact details needed to initiate end-to-end encrypted secure
 communications. Privacy is always guaranteed; users can choose to accept
 or decline communications from contacts discovered via a UD search.
 
-User Discovery runs as a client on the xx network. It’s server is
-maintained by the xx network team. Long term plans are to fully
-decentralize this service onto the xx network blockchain.
+User Discovery runs as a client on the xx Network. It’s server is
+maintained by the xx Network team. Long term plans are to fully
+decentralize this service onto the xx Network blockchain.
 
 ## User Registration
 
@@ -24,9 +24,9 @@ During the xx Messenger app installation process, users select a unique
 username that is registered in UD. This registration is completed
 securely via
 [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) rather
-than [cMix](../overview/cmix).
+than [cMixx](../overview/cmix).
 
-After registering their username, xx messenger generates cryptographic
+After registering their username, xx Messenger generates cryptographic
 information that will be used to identify the user uniquely. This
 information includes:
 
@@ -42,7 +42,7 @@ public key with the
 [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) key), users
 upload their username and information to the User Discovery server to
 complete registration. As a final step in the registration process, xx
-messenger ensures the username is unique and the information passes all
+Messenger ensures the username is unique and the information passes all
 cryptographic checks.
 
 ### Registering Further Information
@@ -54,17 +54,17 @@ checks before being passed to [Twilio](https://www.twilio.com), a
 third-party service that will complete the verification process. Once
 the user confirms their verification code, a salted hash
 ([Blake2b](https://en.wikipedia.org/wiki/BLAKE_(hash_function))) of
-their email or phone number is stored in the database. xx messenger
+their email or phone number is stored in the database. xx Messenger
 protects users’ personal information and never stores unencrypted plain
 text on any servers.
 
 ## Searching for Users
 
-xx messenger allows users to easily find their connections by searching
+xx Messenger allows users to easily find their connections by searching
 for their username, email, or phone number. When a user fills in search
-criteria, xx messenger first salts and hashes the data and then sends it
+criteria, xx Messenger first salts and hashes the data and then sends it
 over the [anonymous data retrieval
-protocol](adrp), which utilizes [cMix](../overview/cmix) and a unique, on-the-fly negotiation
+protocol](adrp), which utilizes [cMixx](../overview/cmix) and a unique, on-the-fly negotiation
 format request to search for the user without ever revealing who is
 searching or who is being searched. When received, the User Discovery
 server searches for the salted hash in its database. If a match is
@@ -77,7 +77,7 @@ requesting user to form an
 A user can delete a piece of their data or their entire registered
 account at any time. However, this will not remove existing
 relationships formed based on that data. To fully remove user data and
-relationships, xx messenger requires a signed statement that will allow
+relationships, xx Messenger requires a signed statement that will allow
 the app to completely remove data from the database.
 
 ## Cryptographic Primitives Summary

@@ -18,7 +18,7 @@ The general flow of the network is that the coin Holders elect the
 Council, and the Council elects the Technical Committee. Thus, the coin
 Holders are the root of all authority within the xx Network.
 
-coin Holders use their coins to nominate nodes, pass referenda, and
+Coin Holders use their coins to nominate nodes, pass referenda, and
 elect the Council. 
 
 `Boxed values` are configurable and subject to change before release or by governance.
@@ -116,7 +116,7 @@ brought up to voting.
 ## Council
 
 The Council is an on-chain representative body designed to represent
-passive stakeholders within the xx network. At launch, the Council will
+passive stakeholders within the xx Network. At launch, the Council will
 have `13` members.
 
 All Council members are selected via the Phragmén election process
@@ -167,7 +167,7 @@ The Council can perform the following on-chain decisions, requiring
 different levels of acceptance of its members:
 
 -   2/3 of the Council can set the on-chain CmixVariables. This
-    includes, for example, points assigned to blocks produced, cmix
+    includes, for example, points assigned to blocks produced, cMixx
     rounds completed and penalty for realtime failures; and the
     geographic multipliers.
 -   3/4 of the Council can cancel a Slash on a validator.
@@ -181,7 +181,7 @@ different levels of acceptance of its members:
 The technical committee, as described above, is elected by the Council
 by a simple majority vote. The technical committee’s primary
 responsibilities are to manage a series of on-chain values to ensure the
-proper functioning of the xx network, veto power of council proposals
+proper functioning of the xx Network, veto power of council proposals
 (as described in [Council Referenda](#council-referenda), and the ability to fast-track
 and expedite council proposals (as described above). Any of these
 on-chain values can also be changed via a referendum.
@@ -189,7 +189,7 @@ on-chain values can also be changed via a referendum.
 ### Cmix Hashes
 
 The Technical Committee has, with democracy’s permission, the ability to
-change the on-chain version hashes of the cMix software and its
+change the on-chain version hashes of the cMixx software and its
 services. It requires 2/3 approval to enact a change.
 
 At launch, this ability expires after 6 months, and it must be renewed

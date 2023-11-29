@@ -2,12 +2,12 @@
 
 The Anonymous Data Retrieval Protocol (ADRP) allows users to request
 data anonymously from a server without ever revealing their identity.
-With normal [end-to-end](e2e-xxm) connections in the xx network, users always know the identity of whom
+With normal [end-to-end](e2e-xxm) connections in the xx Network, users always know the identity of whom
 they are messaging. With ADRP, one can send a request to another user
 containing a one-time-use key negotiation for an entirely new user. The
 recipient can respond to the negotiation without ever knowing the
 identity of the original sender. When ADRP is combined with the metadata
-shredding capability of the cMix protocol encapsulation, a powerful
+shredding capability of the cMixx protocol encapsulation, a powerful
 anonymous data lookup is guaranteed.
 
 This protocol is open for use with the
@@ -28,7 +28,7 @@ encrypted with the new symmetric key via
 [ChaCha20](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant), with
 an appended HMAC.
 
-The request is sent over cMix in a single packet containing the new
+The request is sent over cMixx in a single packet containing the new
 public key (in clear-text) and encrypted message contents. Once
 received, the recipient can execute a Diffie–Hellman with the clear-text
 public key and decrypt the payload. The contents (and clear-text public
@@ -58,7 +58,7 @@ network for receptions on the new identity.
     Library](https://git.xx.network/elixxir/crypto/-/tree/release/e2e/singleUse)
 -   [ID Implementation (Ephemeral and
     Reception)](https://git.xx.network/xx_network/primitives/-/tree/release/id)
--   [cMix Message
+-   [cMixx Message
     Format](https://git.xx.network/elixxir/primitives/-/blob/release/format/message.go)
--   [Sending cMix
+-   [Sending cMixx
     Messages](https://git.xx.network/elixxir/client/-/blob/release/network/message/sendCmix.go)

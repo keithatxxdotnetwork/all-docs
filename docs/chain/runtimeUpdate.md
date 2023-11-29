@@ -17,7 +17,7 @@ For example:
 -   v1.0.0 -> runtime 01 00 00 = 10000
 -   v1.1.0 -> runtime 01 01 00 = 10100
 
-If a particular change in xxchain is client side only (no runtime
+If a particular change in xx Chain is client side only (no runtime
 changes), then the runtime version stays the same. These sort of changes
 should always be patches.
 
@@ -62,7 +62,7 @@ Steps:
 4.  Click "Submit proposal" and then on the next screen sign and submit
     the transaction
 
-Now that the proposal is up, go to the xx network community channels
+Now that the proposal is up, go to the xx Network community channels
 ([discord](https://discord.com/invite/Y8pCkbK) and
 [telegram](https://t.me/xxnetwork)) and inform other members of the
 community about the proposed code change. It is important that

@@ -2,7 +2,7 @@
 
 ![](@site/static/img/Codebase_Overview_Figure_-v3.0-.png)
 The xx Network codebase is combined between xx Labs’ consensus software
-and Elixxir’s cMix protocol.
+and Elixxir’s cMixx protocol.
 
 Elixxir software is organized into four groups of repositories as shown
 in the figure: Core, Services, Clients, and Tools. The *Core* libraries
@@ -65,7 +65,7 @@ state, as well as return state for tokenomics
 
 The Elixxir Primitives repository contains the basic data structures and
 utilities that are used by all Elixxir repositories. This includes the
-user fact structure, the cMix message structure, and the version object.
+user fact structure, the cMixx message structure, and the version object.
 
 ### Elixxir/[Crypto](https://git.xx.network/elixxir/crypto)
 
@@ -73,7 +73,7 @@ The Crypto repository encompasses all of the base cryptographic
 functionality found in the codebase. Relying heavily on Go’s *big
 integer* implementation, Crypto features a cryptographically secure
 random number generator implementation, libraries for working with large
-integers in modulo cyclic groups for cMix operations, and basic
+integers in modulo cyclic groups for cMixx operations, and basic
 encrypt/decrypt functionality. Like Primitives, Crypto only contains
 code that is generic to the larger system. A core approach to this
 repository is to supply wrappers for operations that may require
@@ -100,7 +100,7 @@ Components of this written in CUDA are in a separate repository
 
 ### Elixxir/[Server](https://git.xx.network/elixxir/server)
 
-The Server repository implements the core cMix functionality and is the
+The Server repository implements the core cMixx functionality and is the
 software that a Node runs. It performs precomputation and real-time
 computation and processes messages. In addition, it receives batches of
 messages from the Gateways as well as performs network team operations.
@@ -115,7 +115,7 @@ the xx Network.
 ### Elixxir/[Scheduling](https://git.xx.network/elixxir/registration)
 
 Permissioning, also referred to as Scheduling, manages the NDF for
-Clients and Servers and schedules cMix rounds within the network.
+Clients and Servers and schedules cMixx rounds within the network.
 Eventually, this functionality will be managed by the distributed xx
 consensus. For now, this code handles admission, manages which Nodes are
 part of the network, and orchestrates when Nodes operate.
@@ -140,7 +140,7 @@ Edge server which authorizes clients into the network
 ### Elixxir/[Client API (xxDK)](https://git.xx.network/elixxir/client)
 
 All Clients use the Client API to interact and send messages with the
-cMix network. In addition, it uses Go mobile to produce a library
+cMixx network. In addition, it uses Go mobile to produce a library
 compatible with iOS and Android.
 
 ### Elixxir/[User Discovery (UD)](https://git.xx.network/elixxir/user-discovery-bot)
@@ -182,7 +182,7 @@ xx Network.
 ### Elixxir/[Integration](https://git.xx.network/elixxir/integration)
 
 The Integration repository is a series of end-to-end tests designed to
-test different functionality of the cMix protocol. For example, several
+test different functionality of the cMixx protocol. For example, several
 tests focus on different batch sizes with Nodes only. Another test
 covers all the Client-level interactions within the network.
 
@@ -228,9 +228,9 @@ node, which is based on Substrate. It contains the following pallets
 -   **xx-betanet-rewards:** allows users to select an option for the
     BetaNet Staking Rewards program, which can only be accepted and
     enacted after a Referendum passes using Democracy;
--   **xx-cmix:** hosts cMix variables and software hashes on-chain, and
+-   **xx-cmix:** hosts cMixx variables and software hashes on-chain, and
     allows scheduling server to push points information according to
-    cMix rounds completed/failed;
+    cMixx rounds completed/failed;
 -   **xx-economics:** Implements the unique token economics of xx
     network. This includes a rewards pool from which staking rewards are
     taken, only leading to inflation of the total supply after the pool
@@ -242,4 +242,4 @@ node, which is based on Substrate. It contains the following pallets
 
 The xx labs substrate repository is a fork of the [Substrate framework](https://github.com/paritytech/substrate). The xx-network
 branch of this repository contains Staking pallet modifications specific
-to the xx Network, such as the inclusion of cMix IDs.
+to the xx Network, such as the inclusion of cMixx IDs.

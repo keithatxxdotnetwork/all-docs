@@ -5,13 +5,13 @@ being matched to one user. This allows the users to be strongly
 identified, based upon an ID alone, making it easy to tell which user is
 which.
 
-When sending messages to users, the xx network intentionally has users
+When sending messages to users, the xx Network intentionally has users
 share their IDs to receive messages–the sender ID details are removed
-when the message is sent through the xx network.
+when the message is sent through the xx Network.
 
 The goal here is to hide the identification details of which user
 receives a message and prevent a special type of tagging attack possible
-within the cMix protocol. You can read about the tagging attack in [cMix
+within the x protocol. You can read about the tagging attack in [cMixx
 Tagging
 Attack](https://docs.xx.network/cMix_Tagging_Attack_Analysis_and_Mitigation.pdf).
 
@@ -37,7 +37,7 @@ to function, requiring alternate protections.
 
 The notifications system relies on shared ephemeral IDs to keep
 notifications private. When a user registers for notifications, a server
-run by the xx network team tracks when their current ephemeral ID
+run by the xx Network team tracks when their current ephemeral ID
 receives a message and sends a notification. Then their phone processes
 the notification to detect if the message is actually for the user and
 will notify if it is. This bot, as well as the notifications provider
