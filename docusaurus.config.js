@@ -76,12 +76,6 @@ const config = {
             position: 'left',
             label: 'About',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
           // {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/keithatxxdotnetwork/all-docs',
