@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/xx_network.svg').default,
     description: (
       <>
-        xx network is a secure and efficient decentralized ecosystem. It combines the xx Chain with the privacy-protecting xx cMix technology to power a full suite of cutting-edge tech. 
+        xx Network is a secure and efficient decentralized ecosystem. It combines the xx Chain with the privacy-protecting cMixx technology to power a full suite of cutting-edge tech. 
       </>
     ),
   },
@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'What is xx cMix?',
+    title: 'What is cMixx?',
     Svg: require('@site/static/img/xx_network.svg').default,
     description: (
       <>
-        xx cMix is the end-to-end encryption protocol. It uses a revolutionary metadata shredding technology that obscures the metadata shared when sending messages and transferring data.
+        cMixx is the end-to-end encryption protocol. It uses a revolutionary metadata shredding technology that obscures the metadata shared when sending messages and transferring data.
       </>
     ),
   },
